@@ -1,0 +1,30 @@
+languageCode = "en-us"
+title = "Daniel Karlsson"
+baseURL = "https://www.danielk.se/"
+
+[blackfriday]
+angledQuotes = false
+
+[author]
+    name = "Daniel Karlsson"
+    email = "mail@danielk.se"
+
+
+[[menu.main]]
+    name = "home"
+    weight = 10
+    url = "/"
+[[menu.main]]
+    name = "Professional"
+    weight = 20
+    url = "/categories/professional/"
+[[menu.main]]
+    name = "Personal"
+    weight = 20
+    url = "/categories/personal/"
+[[menu.main]]
+    name = "contact"
+    weight = 30
+    url = "/contact/"
+
+theme = "daniel"
