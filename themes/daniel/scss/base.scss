@@ -1,6 +1,11 @@
+//$ff: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+//$ff: 'Crimson Text', 'Book Antiqua', 'Palatino', 'Garamond', serif;
+//$ff: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+$ff: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
+
 body {
-    font-family: 'Crimson Text', 'Book Antiqua', 'Palatino', 'Garamond', serif;
     text-rendering: optimizeLegibility;
+    font-family: $ff;
 
     @media(max-width: 800px) {
         font-size: 0.7em;
@@ -72,8 +77,13 @@ li {
     }
 }
 
+figure {
+    width: 100%;
+    margin: auto;
+}
+
 img {
-    width: 60%;
+    width: 100%;
     display: block;
     margin: 2em auto 1em;
 }
@@ -177,7 +187,7 @@ form {
     input, textarea {
         border: none;
         border-bottom: solid 1px #bdbdbd;
-        font-family: 'Crimson Text', 'Book Antiqua', 'Palatino', 'Garamond', serif;
+        font-family: ff;
         margin: 0.2em 0 0.8em;
         resize: none;
         font-size: 1.4em;
@@ -192,10 +202,19 @@ form {
         border: none;
         font-size: 1.5em;
         font-variant-caps: all-small-caps;
-        font-family: 'Crimson Text', 'Book Antiqua', 'Palatino', 'Garamond', serif;
+        font-family: ff;
         background: none;
         font-size: 1.4em;
         font-weight: 400;
         letter-spacing: 2px;
+    }
+}
+
+table {
+    font-size: 1.4em;
+    text-align: left;
+
+    td {
+        padding-right: 3em;
     }
 }

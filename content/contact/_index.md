@@ -5,11 +5,10 @@ date: "2017-04-05"
 ---
 # Contact
 
-<div class="fliffr-profile-widget"><a href="https://fliffr.com/@danieka" data-lang="en" data-hashtags="fliffr">Contact @danieka on Fliffr</a></div>
-<script src="https://cdn.fliffr.com/widget/main.js" async defer></script>
+Feel free to email.
 
-Feel free to email.  
-mail@danielk.se
+<a href="mailto:mail@danielk.se">mail@danielk.se</a>
+  
 
 Public PGP Key
 
