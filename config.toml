@@ -1,6 +1,7 @@
 languageCode = "en-us"
 title = "Daniel Karlsson"
 baseURL = "https://www.danielk.se/"
+theme = "daniel"
 
 [blackfriday]
 angledQuotes = false
@@ -27,4 +28,3 @@ angledQuotes = false
     weight = 30
     url = "/contact/"
 
-theme = "daniel"

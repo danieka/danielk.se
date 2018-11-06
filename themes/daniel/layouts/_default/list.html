@@ -11,6 +11,7 @@
   <div class="content">
     {{ range first 10 .Data.Pages }}
       <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
+      <p>{{ .Date.Format "Jan 2, 2006" }}</p>
       <p>{{ .Summary }}</p>
       <p><a href="{{ .Permalink }}">Read more</a></p>
     {{ end }}
