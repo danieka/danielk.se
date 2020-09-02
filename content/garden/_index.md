@@ -1,4 +1,4 @@
-# Daniels digital garden
+# Daniel's Digital Garden
 
 Instead of writing blog posts arranged in chronological order I've decided to try to grow a digital garden. Knowledged isn't chronologically ordered, instead it is centered around subjects. And instead of a blogger I will be a gardener.
 
