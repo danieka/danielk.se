@@ -95,12 +95,12 @@ Under upplysningen började man särskilja bibeltolkning från kyrkans dogmer. B
 
 Postmodernism kommer in som en reaktion mot det moderna paradigmet. Sen 1980-talet finns det en mängd olika perspektiv och metoder inom bibelvetenskapen.
 
-Diakrona metoder (textens tillkomstprocess). Hur texten har kommit till, förändrats och utvecklas. Relaterar ofta till historisk-kritiska metoden.
-Synkrona metoder (den föreliggande texten). Fokuserar på texten som den föreligger nu. Studerar texten och dess struktur.
+Diakrona metoder (textens tillkomstprocess). Hur texten har kommit till, förändrats och utvecklas. Relaterar ofta till historisk-kritiska metoden.  
+Synkrona metoder (den föreliggande texten). Fokuserar på texten som den föreligger nu. Studerar texten och dess struktur.  
 
-"bakom texten" (information från det historiska sammanhanget)
-"i texten" (information från texten själv)
-"framför texten" (information från senare teologi/ideologi). Vid läsning framför texten är det viktigt att inte ta med sig normerna från teologin/ideologin.
+"bakom texten" (information från det historiska sammanhanget)  
+"i texten" (information från texten själv)  
+"framför texten" (information från senare teologi/ideologi). Vid läsning framför texten är det viktigt att inte ta med sig normerna från teologin/ideologin.  
 
 Vi behöver en mångfacetterad exegetisk metod som integrerar litterära, historiska och teologiska aspekter.
 
