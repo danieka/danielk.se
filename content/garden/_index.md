@@ -1,1 +1,1 @@
-[Teologi](/garden/teologi)
+[Teologi](/garden/teologi/)
