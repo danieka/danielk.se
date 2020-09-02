@@ -1,5 +1,7 @@
 ---
 title: "Teologi"
+categories:
+    - Garden
 ---
 
 # Teologi
