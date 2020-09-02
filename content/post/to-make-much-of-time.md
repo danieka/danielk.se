@@ -6,11 +6,7 @@ categories:
   - "Personal"
 ---
 
-<div class="summary">
-<p>
 I dagens episod försöker Daniel fånga ögonblicket och prövar att flörta med en tjej. Det går sådär.
-</p>
-</div>
 
 <!--more-->
 

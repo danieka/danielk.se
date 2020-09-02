@@ -6,9 +6,7 @@ categories:
   - "Personal"
 ---
 
-<div class="summary">
-<p>En sublim och existentiell ensamhet drabbar Daniel.</p>
-</div>
+En sublim och existentiell ensamhet drabbar Daniel.
 <!--more-->
 
 # Existentiell ensamhet

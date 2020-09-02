@@ -7,12 +7,7 @@ categories:
 tags: [ "product", "startup" ]
 ---
 
-<div class="summary">
-<blockquote><p>It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so. - Mark Twain</p></blockquote>
-
-<p>Release early to figure out what you don't know and avoid spending time on building stuff your customers don't want or need.</p>
-</div>
-
+Release early to figure out what you don't know and avoid spending time on building stuff your customers don't want or need.
 <!--more-->
 
 # Unknown Unknowns

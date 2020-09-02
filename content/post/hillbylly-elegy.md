@@ -6,6 +6,9 @@ categories:
   - "Personal"
 ---
 
+En recension av en berättelse om materiell och social fattigdom, klassresa, narkotikaberoende, hederskultur och familjeband.
+<!--more-->
+
 # Bokrecension: Hillbilly Elegy
 
 Hillbilly Elegy är en berättelse om materiell och social fattigdom, klassresa, narkotikaberoende, hederskultur och familjeband. Författaren, J.D. Vance född och uppvuxen i Middletown, Ohio, och beskriver sin familj och sig själv som hillbilly. Hillbillys är vit arbetarklass med skotsk och irländsk bakgrund. Hillbillies har en disktinkt kultur som håller hårt på traditioner, kyrka och familjestrukturer. Det är en socialt isolerad grupp som känner sig utanför resten av samhället, det är nästan ett skuggsamhälle. Samtidigt så har många arbetarjobb som hillbillies förlitat sig på för sin försörjning försvunnit, utan att ersättas av något annat. J.D. ser under sin uppväxt Middletown vittra sönder under trycket från fattigdom, droger och social misär.

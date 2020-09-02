@@ -7,9 +7,7 @@ categories:
 tags: [ "startup" ]
 ---
 
-<div class="summary">
-<p>After fundraising make sure to stop and formulate a strategy. Avoid costly mistakes by focusing your newfound resources where they yield the most results.</p>
-</div>
+After fundraising make sure to stop and formulate a strategy. Avoid costly mistakes by focusing your newfound resources where they yield the most results.
 <!--more-->
 
 # You've fundraised  

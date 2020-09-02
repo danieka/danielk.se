@@ -141,11 +141,11 @@ Vi relaterar även texten till kyrkans teologi.
 
 # Ordlista
 
-Isagogik: lära om bibelböckers tillkomst
-Patrilinjär: arv på svärdssidan
-Deuterokanoniska: "halvkanoniska" skrifter, som apokryferna
-Hermeneutik: tolkningsteori - studerar den skrifliga kommunikationens natur
-Exegetik: förklaring eller tolkning.
+Isagogik: lära om bibelböckers tillkomst  
+Patrilinjär: arv på svärdssidan  
+Deuterokanoniska: "halvkanoniska" skrifter, som apokryferna  
+Hermeneutik: tolkningsteori - studerar den skrifliga kommunikationens natur  
+Exegetik: förklaring eller tolkning  
 
 
 Bibliografi:

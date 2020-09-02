@@ -7,9 +7,8 @@ categories:
 tags: [ "tro" ]
 ---
 
-<div class="summary">
-<p>Borde du frukta döden och det som kommer efter den? Vad säger Bibeln? Jag jämför två perspektiv, ett med hopp för evigheten och ett utan.</p>
-</div>
+Borde du frukta döden och det som kommer efter den? Vad säger Bibeln? Jag jämför två perspektiv, ett med hopp för evigheten och ett utan.
+
 <!--more-->
 
 # Två evighetsperspektiv

@@ -7,6 +7,9 @@ categories:
   - "Personal"
 ---
 
+Israel är en fascinerande plats på många nivåer och jag ska göra mitt bästa för att fånga detta.
+<!--more-->
+
 # Israel
 
 Israel är en fascinerande plats på många nivåer och jag ska göra mitt bästa för att fånga detta. Till min hjälp så har jag lagt in lite musik på sidan, om du har Spotify så borde du kunna lyssna på den.

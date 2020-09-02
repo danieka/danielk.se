@@ -6,6 +6,10 @@ categories:
   - "Personal"
 ---
 
+Introduktion till det som i framtiden skulle kunna bli en bok.
+
+<!--more-->
+
 # Bokprojekt
 
 Jag har börjat skriva en bok. Vet inte vad den ska heta ännu. Kanske "Batseba", eller möjligtvis "Tre". Ni som känner mig ser att huvudpersonen har *mycket* gemensamt med mig, men låt mig vara tydlig. Det är *inte* en självbiografi. Men jag tror det kommer hjälpa mig att skriva om miljöer, och situationer, som jag känner till. Resten är fantasi. Nog sagt om det.
