@@ -6,4 +6,5 @@ I intend to write here about subjects which interest me. Hopefully this garden w
 
 ### Subjects
 
-[Teologi](/garden/teologi/)
+[Teologi](/garden/teologi/)  
+[Technology](/garden/technology/)  
