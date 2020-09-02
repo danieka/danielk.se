@@ -3,7 +3,7 @@ title: "Anteckningar från Langham konf 3"
 description: ""
 date: "2018-11-06"
 categories:
-  - "Personal"
+  - "Notes"
 tags: [ "tro" ]
 ---
 

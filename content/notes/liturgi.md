@@ -3,7 +3,7 @@ title: "Anteckningar från Martins föredrag om Liturgi & Gudstjänstordning"
 description: ""
 date: "2018-11-06"
 categories:
-  - "Personal"
+  - "Notes"
 tags: [ "tro" ]
 ---
 

@@ -16,6 +16,10 @@ angledQuotes = false
     weight = 10
     url = "/"
 [[menu.main]]
+    name = "Garden"
+    weight = 15
+    url = "/garden/"
+[[menu.main]]
     name = "Professional"
     weight = 20
     url = "/categories/professional/"

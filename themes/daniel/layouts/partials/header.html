@@ -5,7 +5,10 @@
     <base href="{{ .Site.BaseURL }}">
     <link rel="canonical" href="{{ .Permalink }}">
     <!-- <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">  -->
-    <link href="{{ .Site.BaseURL }}css/base.css" rel="stylesheet" type="text/css">
+    {{ $styles := resources.Get "scss/base.scss" | toCSS | minify | fingerprint }}
+    <link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}">
+
+    <style></style>
     <link href="{{ .RSSLink }}" rel="alternate feed" type="application/rss+xml" title="{{ .Site.Title }}" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="me" href="mailto:mail@danielk.se" />

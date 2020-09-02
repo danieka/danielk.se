@@ -1,0 +1,15 @@
+{{ partial "header.html" . }}
+<title>{{ .Site.Title }}</title>
+</header>
+
+<body lang="en">
+<div id="grid-warning">
+  On this page I use a technique for layout called CSS grid. Only the most recent versions of Firefox, Chrome and Safari support this technique. To see the page as it is intended please switch to one of those browser. Either way I hope you will enjoy your visit.
+</div>
+{{ partial "navigation.html" . }}
+<section id="main">
+  <div class="content">
+    {{ .Content }}
+  </div>
+</section>
+</body>

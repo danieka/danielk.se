@@ -3,7 +3,7 @@ title: "Anteckningar från predikantdagar"
 description: ""
 date: "2017-09-23"
 categories:
-  - "Personal"
+  - "Notes"
 tags: [ "tro" ]
 draft: false
 ---

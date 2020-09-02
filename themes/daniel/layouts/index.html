@@ -9,12 +9,7 @@
 {{ partial "navigation.html" . }}
 <section id="main" class="index">
   <div class="content">
-    {{range first 10 (where .Data.Pages ".Params.notonhomepage" "!=" "true")}}
-      <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
-      <p>{{ .Date.Format "Jan 2, 2006" }}</p>
-      <p>{{ .Summary }}</p>
-      <p><a href="{{ .Permalink }}">Read more</a></p>
-    {{ end }}
+    {{ .Content }}
   </div>
 </section>
 </body>
