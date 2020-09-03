@@ -157,7 +157,7 @@ Vi relaterar även texten till kyrkans teologi.
 
 # Kanon
 
-Torah och pentateuken är gemensam i judisk, luthersk och katolks kanon. Judisk kanon slutan med andra krönikeboken. Luthersk och katolsk kanon slutar med Malaki men katolsk innehåller även deuterokanoniska. Det är tydligt att Jesus inte såg deuterokanoniska som heliga skrifter. Jesus har en judisk kanonsyn då han refererar till Abel från {{< bible "1 Mos" 4 8 >}} och Sakarja, Berejaks son, från {{< bible "2 Krön" 24 21 >}} som är först och sist i den judiska kanon {{< bible "Matt" 23 35 >}}.
+Torah och pentateuken är gemensam i judisk, luthersk och katolks kanon. Judisk kanon slutan med andra krönikeboken. Luthersk och katolsk kanon slutar med Malaki men katolsk innehåller även deuterokanoniska. Det är tydligt att Jesus inte såg de deuterokanoniska böckerna som heliga skrifter. Jesus har en judisk kanonsyn då han refererar till Abel från {{< bible "1 Mos" 4 8 >}} och Sakarja, Berejaks son, från {{< bible "2 Krön" 24 21 >}} som är först och sist i den judiska kanon {{< bible "Matt" 23 35 >}}.
 
 Apokryferna och deuterokanoniska syftar på samma böcker, men orden hanterar böckerna annorlunda. Apokryferna anses som viktiga men inte heliga böcker. Deuterokanoniska böckerna läggs till den katolska kanon av kyrkomötet i Trent 1562.
 
@@ -171,7 +171,7 @@ Bibel 2000 bygger på den hebreiska grundtexten. Men innehåller den katolska ka
 
 Mose har förmodligen skrivit stora delar av moseböckerna. Finns fyra angreppssätt för böckerna. Kristen, ateistisk, judisk och islamsk. Pentateuken är en kristen definition av Torah.
 
-De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möljig för oss.
+De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Fariséerna använda sig av dessa. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möljig för oss.
 
 Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5 17 18 >}}.
 
