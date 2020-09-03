@@ -104,6 +104,10 @@ Synkrona metoder (den föreliggande texten). Fokuserar på texten som den förel
 
 Vi behöver en mångfacetterad exegetisk metod som integrerar litterära, historiska och teologiska aspekter.
 
+## Litterär kontext
+
+Litterär kontext innefattar hur perikopen förhåller sig dels till bibelboken som helhet men också hur texten förhåller sig till det som står precis före och precis efter texten. Ställ frågor till texten som när, hur, varför och vilka?
+
 ## Mångfacetterad exegetisk metod
 
 ### 1. Litterärt sammanhang - texten i centrum - "i texten"
@@ -139,6 +143,89 @@ I det kanoniska perspektivet har Bibelns böcker förmedlats som en enhet och de
 
 Vi relaterar även texten till kyrkans teologi.
 
+# Predikan
+
+1. Tema (se hjärtslag)
+2. Uppdelning
+3. Tillämpning (bridge the gap)
+
+# Kanon
+
+Torah och pentateuken är gemensam i judisk, luthersk och katolks kanon. Judisk kanon slutan med andra krönikeboken. Luthersk och katolsk kanon slutar med Malaki men katolsk innehåller även deuterokanoniska. Det är tydligt att Jesus inte såg deuterokanoniska som heliga skrifter. Jesus har en judisk kanonsyn då han refererar till Abel från 1 Mos och Sakarja, Berejaks son, från 2 Krön som är först och sist i den judiska kanon (Matt 23:35).
+
+Apokryferna och deuterokanoniska syftar på samma böcker, men orden hanterar böckerna annorlunda. Apokryferna anses som viktiga men inte heliga böcker. Deuterokanoniska böckerna läggs till den katolska kanon av kyrkomötet i Trent 1562.
+
+Hela Tanak är utandad av Gud (2 Tim 3:16).
+
+Nya testamentet annonseras i Gamla testamentet (Jer 31:31).
+
+Bibel 2000 bygger på den hebreiska grundtexten. Men innehåller den katolska kanonordningen och inkluderar apokryferna. Boken används som helig skrift i evangelisk-lutherska kyrkan.
+
+# Moseböckerna
+
+Mose har förmodligen skrivit stora delar av moseböckerna. Finns fyra angreppssätt för böckerna. Kristen, ateistisk, judisk och islamsk. Pentateuken är en kristen definition av Torah.
+
+De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möljig för oss.
+
+Jesus bekräftar lagen som varken ska upphävas eller ändras. Matt 5:17-18
+
+## 1 Mos
+
+Abraham - trons fader (1 Mos 12). Hans fundament är inte landet utan Gud som leder honom till hans nya hemland. Abraham är runt 80 år när han kallas. Abraham lämnar allt för att följa Gud.
+
+## 2 Mos
+
+Abraham räknade med att Gud skull uppväcka Isak. (Hebr 11:19) Abraham hade fått löfte att det var genom Isak som hans avkomma skulle räknas. (Rom 9:7) Abraham har litat på Gud, men också fått se Guds löften gå i uppfyllelse. Han hade fått sin son Isak trots att han trodde det var omöjligt.
+
+### 2 Mos: 22
+
+Teman:
+* Abraham undanhåller inget från Gud
+* Gud vill inte ha ett människooffer
+* Gud förser ett offer
+
+Textens indelning:
+1 - 8
+9 - 14
+15 - 19
+
+#### Abrahams tro och förtröstan
+
+Har du varit nytt på ett jobb och följt instruktioner som du inte förstått? Gud begär här att Abraham ska offra Isak, som Guds löften ska uppfyllas genom. Trots att Abraham inte förstod så trodde han att Gud kan göra det som är omöjligt.
+
+Tillämpning: Vi får tro att Gud gör det som är omöjligt
+
+#### Gud förser
+När vi läser texten tycker vi att det är avskyvärt att Gud ber om offret. Men samtidigt stämmer det inte med vår övriga bild av Gud. Gud ber egentligen inte om själva offret, utan om offerviljan. 
+
+Finns det något i ditt liv som du är beredd att offra allt för? Vad skulle du göra för din familj? Eller vad skulle du offra för att rädda ditt eget liv?
+Vad skulle du offra för att följa Guds vilja? Hur många föräldrar har inte sett sina barn dö martyrdöden för Gud? Det vi inte är beredda att offra det är vår avgud.
+
+#### Gud befäster sina löften
+
+Gud visar att genom allt är han trofast och håller sina löften, även om Abraham inte kan se eller förstå hur de ska uppfyllas.
+
+Tillämpning: Vi får lita på Guds löften, även de vi inte förstår.
+
+## 2 Mosebok
+
+Mose, som mördare, är temperamentsfull som person. Gud legitimerar inte mord, men kan använda mördare.
+
+Abraham levde ca 1 800 f. Kr.
+Exodus äger run ca 1 400 f. Kr.
+
+Pesach betyder gå förbi.
+
+Uttåget kan ha skett över Aqaba-viken. Se Lennart Möller, The Exodus Case. Berättelsen i 2 Mos är en mikroskopisk variant av 
+
+Mose liv - vårt liv  
+Kallelsen - kallelsen, kap 3  
+Slaveriet - synden, kap 4 - 11  
+Röda havet - dopet, kap 12 - 14  
+Landet - himlen  
+
+25 - 40 om tabernaklet. Platsen där Gud bor.
+
 # Ordlista
 
 Isagogik: lära om bibelböckers tillkomst  
@@ -146,10 +233,18 @@ Patrilinjär: arv på svärdssidan
 Deuterokanoniska: "halvkanoniska" skrifter, som apokryferna  
 Hermeneutik: tolkningsteori - studerar den skrifliga kommunikationens natur  
 Exegetik: förklaring eller tolkning  
-
+Pentateuken: Moseböckerna  
+Genesis: Första moseboken - "I begynnelsen"  
+Exodus: Andra moseboken - "Uttåget"  
+Leviticus: Tredje moseboken - "Levit/Lag"  
+Numeri: Fjärde moseboken - "Räkning"  
+Deuteronomium: Femte moseboken - "Andra lagen"  
+Kanon: rättesnöre  
+Biblica Hebraica: Den hebreiska grundtexten  
+Perikop: textavsnitt  
 
 Bibliografi:
-* Cape Town Commitment
+* [Cape Town Commitment](https://www.lausanne.org/content/ctcommitment#capetown)
 * Christian Mission and the Modern World, Wright
 * Gorman
 * Reading the Gospels Wisely, Jonathan Pennington
