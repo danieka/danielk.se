@@ -1,0 +1,24 @@
+{{ $book := index .Site.Data.Bible (.Get 0) }}
+{{ $content := index $book "content"}}
+{{ $chapter := index $content (sub (.Get 1) 1 ) }}
+
+{{ $start := (.Get 2)}}
+{{ $end := $start}}
+{{ if len .Params | eq 4 }}
+    {{ $end = (.Get 3) }}
+{{ end }}
+
+(<span class="bible-text">
+<a href='http://www.folkbibeln.it/?book={{ index $book "code" }}&chapter={{.Get 1}}&verse={{.Get 2}}'>{{ .Get 0 }} {{ .Get 1 }}:{{ .Get 2}}{{ if len .Params | eq 4 }}-{{ .Get 3 }}{{end}}</a>
+<span class="popover">
+    <span>
+        {{ range $idx := first (sub $end (sub $start 1)) (after (sub $start 1) $chapter) }}
+        {{ $idx }}
+        {{ end }}
+    </span>
+    <br>
+    <span class="reference">
+        <small>Texten hämtad från <a href='http://www.folkbibeln.it/?book={{ index $book "code" }}&chapter={{.Get 1}}&verse={{.Get 2}}'>Svenska Folkbibeln 2015</a></small>
+    </span>
+</span>
+</span>)

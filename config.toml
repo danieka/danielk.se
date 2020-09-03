@@ -6,10 +6,12 @@ theme = "daniel"
 [blackfriday]
 angledQuotes = false
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [author]
     name = "Daniel Karlsson"
     email = "mail@danielk.se"
-
 
 [[menu.main]]
     name = "home"

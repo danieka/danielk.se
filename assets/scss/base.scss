@@ -44,7 +44,6 @@ h2 {
 p {
     font-size: 1.4em;
     line-height: 1.5;
-    text-align: justify;
     hyphens: auto;
     color: $black;
     hyphens: auto;
@@ -228,4 +227,45 @@ figcaption {
 
 iframe {
     height: 80px;
+}
+
+details {
+    background: #ecf2f2;
+    padding: 10px;
+    font-size: 0.7rem;
+    
+    summary {
+        font-size: 1rem;
+    }
+}
+
+.bible-text {
+    position: relative;
+    margin: 0 -4px;
+    
+    .popover {
+        display: none;
+        position: absolute;
+        background: #ebd8f0;
+        padding: 1rem 2rem;
+        box-shadow: 3px 4px 16px 3px rgba(0,0,0,0.75);
+        z-index: 1;
+
+        width: 30em;
+
+        .reference {
+            display: block;
+            margin-top: 1rem;
+            text-align: right;
+            font-size: 0.8em;
+        }
+
+        &:hover {
+            display: block;
+        }
+    }
+
+    &:hover .popover {
+        display: block;
+    }
 }

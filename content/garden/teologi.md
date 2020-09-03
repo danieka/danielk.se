@@ -108,6 +108,14 @@ Vi behöver en mångfacetterad exegetisk metod som integrerar litterära, histor
 
 Litterär kontext innefattar hur perikopen förhåller sig dels till bibelboken som helhet men också hur texten förhåller sig till det som står precis före och precis efter texten. Ställ frågor till texten som när, hur, varför och vilka?
 
+## Narrativ analys
+
+En analys av berättargreppen i som används i texten. Vad är det som händer och hur berättas det? Berättelser innehåller händelser som har orsaker och verkan. Händelser relaterar ofta till konflikter. Berättelser innehåller platser och miljöer. Var äger händelser rum? Platser har ofta kopplingar utanför denna berättelsen. Berättelser innehåller karaktärer. Karaktärer har drivkraften, styrkor och svagheter. Karaktärer kan beskrivas direkt t. ex. "Sven var ödmjuk" eller indirekt genom karaktärers ord och handlingar. Indirekta karaktärsbeskrivningar görs ofta genom att kontrastera olika karaktärer t ex Saul kontra David. Vem är berättaren och är han synlig i berättelsen? Även om berättaren inte finns i berättelsen så lämnar ofta berättaren en kommentar eller bedömning av det som sker.
+
+Vilken norm eller perspektiv har berättelsen? Berättelser ofta ett budskap om teologi eller etik.
+
+Vad är berättelsens funktion?
+
 ## Mångfacetterad exegetisk metod
 
 ### 1. Litterärt sammanhang - texten i centrum - "i texten"
@@ -125,8 +133,6 @@ Viktigt är att identifiera genre för texten man jobbar med. Böcker kan tillh�
 Vi undersöker även bokens struktur och textens struktur.  
 Vi undersöker berättelsegrepp: händelser, intriger, karaktärer och miljöer.  
 Vi gör en begreppsanalys: ord får betydelse utifrån sammanhanget.  
-
-1 Mos: Släkttavlorna blir en indelning för boken.
 
 ### 2. Historiskt sammanhang - "bakom texten"
 
@@ -151,13 +157,13 @@ Vi relaterar även texten till kyrkans teologi.
 
 # Kanon
 
-Torah och pentateuken är gemensam i judisk, luthersk och katolks kanon. Judisk kanon slutan med andra krönikeboken. Luthersk och katolsk kanon slutar med Malaki men katolsk innehåller även deuterokanoniska. Det är tydligt att Jesus inte såg deuterokanoniska som heliga skrifter. Jesus har en judisk kanonsyn då han refererar till Abel från 1 Mos och Sakarja, Berejaks son, från 2 Krön som är först och sist i den judiska kanon (Matt 23:35).
+Torah och pentateuken är gemensam i judisk, luthersk och katolks kanon. Judisk kanon slutan med andra krönikeboken. Luthersk och katolsk kanon slutar med Malaki men katolsk innehåller även deuterokanoniska. Det är tydligt att Jesus inte såg deuterokanoniska som heliga skrifter. Jesus har en judisk kanonsyn då han refererar till Abel från {{< bible "1 Mos" 4 8 >}} och Sakarja, Berejaks son, från {{< bible "2 Krön" 24 21 >}} som är först och sist i den judiska kanon {{< bible "Matt" 23 35 >}}.
 
 Apokryferna och deuterokanoniska syftar på samma böcker, men orden hanterar böckerna annorlunda. Apokryferna anses som viktiga men inte heliga böcker. Deuterokanoniska böckerna läggs till den katolska kanon av kyrkomötet i Trent 1562.
 
-Hela Tanak är utandad av Gud (2 Tim 3:16).
+Hela Tanak är utandad av Gud {{< bible "2 Tim" 3 16 >}}.
 
-Nya testamentet annonseras i Gamla testamentet (Jer 31:31).
+Nya testamentet annonseras i Gamla testamentet {{< bible "Jer" 31 31 >}}.
 
 Bibel 2000 bygger på den hebreiska grundtexten. Men innehåller den katolska kanonordningen och inkluderar apokryferna. Boken används som helig skrift i evangelisk-lutherska kyrkan.
 
@@ -167,45 +173,46 @@ Mose har förmodligen skrivit stora delar av moseböckerna. Finns fyra angreppss
 
 De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möljig för oss.
 
-Jesus bekräftar lagen som varken ska upphävas eller ändras. Matt 5:17-18
+Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5 17 18 >}}.
 
 ## 1 Mos
 
-Abraham - trons fader (1 Mos 12). Hans fundament är inte landet utan Gud som leder honom till hans nya hemland. Abraham är runt 80 år när han kallas. Abraham lämnar allt för att följa Gud.
+Abraham - trons fader {{< bible "1 Mos" 12 1 3 >}}. Hans fundament är inte landet utan Gud som leder honom till hans nya hemland. Abraham är runt 80 år när han kallas. Abraham lämnar allt för att följa Gud.
 
-## 2 Mos
+Släkttavlorna blir en indelning för boken.
 
-Abraham räknade med att Gud skull uppväcka Isak. (Hebr 11:19) Abraham hade fått löfte att det var genom Isak som hans avkomma skulle räknas. (Rom 9:7) Abraham har litat på Gud, men också fått se Guds löften gå i uppfyllelse. Han hade fått sin son Isak trots att han trodde det var omöjligt.
+### 1 Mos: 22
 
-### 2 Mos: 22
+Abraham räknade med att Gud skull uppväcka Isak {{< bible "Hebr" 11 19 20 >}}. Abraham hade fått löfte att det var genom Isak som hans avkomma skulle räknas {{< bible "Rom" 9 7 >}}. Abraham har litat på Gud, men också fått se Guds löften gå i uppfyllelse. Han hade fått sin son Isak trots att han trodde det var omöjligt.
+
+{{< details "Predikoövning" >}}
+
+Detta är resultatet av en predikoövning över 1 Mos 22:1-19. Övningen genomfördes under 20 minuter därför är arbetet väldigt halvfärdigt och inte särskilt genomtänkt och kan vara en felaktig läsning av texten.
 
 Teman:
 * Abraham undanhåller inget från Gud
 * Gud vill inte ha ett människooffer
 * Gud förser ett offer
 
-Textens indelning:
-1 - 8
-9 - 14
-15 - 19
-
-#### Abrahams tro och förtröstan
+#### Abrahams tro och förtröstan, v. 1 - 8
 
 Har du varit nytt på ett jobb och följt instruktioner som du inte förstått? Gud begär här att Abraham ska offra Isak, som Guds löften ska uppfyllas genom. Trots att Abraham inte förstod så trodde han att Gud kan göra det som är omöjligt.
 
 Tillämpning: Vi får tro att Gud gör det som är omöjligt
 
-#### Gud förser
+#### Gud förser, v. 9 - 14
 När vi läser texten tycker vi att det är avskyvärt att Gud ber om offret. Men samtidigt stämmer det inte med vår övriga bild av Gud. Gud ber egentligen inte om själva offret, utan om offerviljan. 
 
 Finns det något i ditt liv som du är beredd att offra allt för? Vad skulle du göra för din familj? Eller vad skulle du offra för att rädda ditt eget liv?
 Vad skulle du offra för att följa Guds vilja? Hur många föräldrar har inte sett sina barn dö martyrdöden för Gud? Det vi inte är beredda att offra det är vår avgud.
 
-#### Gud befäster sina löften
+#### Gud befäster sina löften, v. 15 - 19
 
 Gud visar att genom allt är han trofast och håller sina löften, även om Abraham inte kan se eller förstå hur de ska uppfyllas.
 
 Tillämpning: Vi får lita på Guds löften, även de vi inte förstår.
+
+{{< /details >}}
 
 ## 2 Mosebok
 
