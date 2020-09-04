@@ -176,6 +176,7 @@ cite {
     display: grid;
     max-width: 100vw;
     grid-template-columns: 1em 1.618fr 80ch 1fr 1em;
+    min-height: calc(100vh - 2em - 6px);
 
     &.post .summary {
         display: none;
@@ -189,13 +190,12 @@ cite {
     .content {
         padding-bottom: 10rem;
     }
+}
 
-    .footer {
-        margin-top: 2em;
-        p {
-            font-size: 1.2em;
-        }
-    }
+footer {
+    margin-left: 1em;
+    font-size: 0.8rem;
+    padding-bottom: 8px;
 }
 
 form {
