@@ -212,6 +212,7 @@ Senare utveckling är att:
 
 * Sam - Krön är en tidigare upplaga och att 5 Mos - Dom har inspirerats av de historieböckerna.
 
+### Bokens syn
 Boken stämmer in i att Jos - Kung på något sätt en litterär enhet. Sammanförda och med en teologi som speglar 5 Mos. Sammanställningen är gjord utifrån exilens perspektiv och sammanställd då. Boken menar mot att Jos - Kung kan ha skrivits långt tidigare, de måste inte ha skrivits under exilen. Avfall och exil är teman som funnits tidigare än själva exilen. Boken menar också att kriterier för att fastställa olika redigeringar av DH är orimliga för att alla spänningar i texten ska lösas med att det är två olika författare. Även i andra texter har man upprepningar och olika ordval utan att det är olika författare. Varför ska man anse att endast 5 Mos har influerat DH? Det finns många teman i DH som går tillbaka till pentateukens tidigare böcker. Boken menar att det enda vi säkert kan veta är att gamla testamentets böcker växt fram gradvis och i symbios med varandra.
 
 ## 1 Mos
