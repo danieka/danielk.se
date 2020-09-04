@@ -73,9 +73,9 @@ Efter Jerusalems förstörelse 587 utvecklades alfabetet till kvadratskrift geno
 Tidigaste inskrifter är från 900-talet f.Kr. Meshastenen, 850 f.Kr, som talar om kung Omri. Man använde papyrus och skinn för att skriva ner texter, därför finns få texter bevarade. 
 
 Gamla testamentet kallas i judisk tradition Tanak. Som består av:
-* Torah (Lagen): Moseböckerna
-* Neviim (Profeterna): historiska böcker & profetskrifterna, men ej Daniel
-* Ketuvim (Skrifterna): övriga
+1. Torah (Lagen):              Moseböckerna
+2. Neviim (Profeterna):     Historiska böcker & profetböcker (ej Daniel)
+3. Ketuvim (Skrifterna):    Övriga
 
 Romersk-katolsk tradition inkluderar även deuterokanoniska skrifter i Gamla testamentet medans protestantisk tradition följer judisk kanon.
 
@@ -192,8 +192,8 @@ Pentateuken byggs upp av fem huvudteman: Ledning ut ur Egypten, Ledning i förlo
 * David Clines  
 Menar att litterära verka har bara ett huvudtema man vill förmedla (Wenham 123-142??). Menar att exegetiken har fokuserat på fel frågor vilket är de historiska frågorna (diakrona) som hur texten kommit till. Problemet är att man fokuserar på detaljer på bekostnad av helheten. Det blir spekulativt eftersom vi inte kan veta vem som skrivit texterna i pentateuken. Temat är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors initiativ får ödesdigra konsekvenser, Guds ursprungliga tanke med människan. Huvudtemat löftet till Abraham.
 
-1 Mos 1 - 11: Pessimistisk
-1 Mos 12: Optimism när Abraham kommer in
+1 Mos 1 - 11: Pessimistisk  
+1 Mos 12: Optimism när Abraham kommer in  
 
 ## Deuteronomistiska historieverket (DH)
 
