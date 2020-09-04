@@ -182,6 +182,38 @@ De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa 
 
 Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5 17 18 >}}.
 
+## Pentateukens tema
+
+Tre teorier för pentateukens genomgående tema.
+
+* Martin Noth  
+Pentateuken byggs upp av fem huvudteman: Ledning ut ur Egypten, Ledning i förlovande landet, löften till patriarker, ledning i ökenen, löftet på Sinai
+* Gerhard von Rad
+* David Clines  
+Menar att litterära verka har bara ett huvudtema man vill förmedla (Wenham 123-142??). Menar att exegetiken har fokuserat på fel frågor vilket är de historiska frågorna (diakrona) som hur texten kommit till. Problemet är att man fokuserar på detaljer på bekostnad av helheten. Det blir spekulativt eftersom vi inte kan veta vem som skrivit texterna i pentateuken. Temat är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors initiativ får ödesdigra konsekvenser, Guds ursprungliga tanke med människan. Huvudtemat löftet till Abraham.
+
+1 Mos 1 - 11: Pessimistisk
+1 Mos 12: Optimism när Abraham kommer in
+
+## Deuteronomistiska historieverket (DH)
+
+5 Mos -> Jos, Dom, Sam, Kung: ett gemensamt historieverk som satts samman med samma person
+
+Martin Noth menar 1943 att det finns en person, Deuteronomisten (Dtr), som tog 5 Mosebok och lade till lite berättande text i 5 Mos och tog olika traditioner som finns i de historiska böckerna och formade dem till det deuterenomistiska historieverket. Dtr gjorde det under exilen i Babylon som ett sätt att förklara hur man hamnade i exilen, man hade brutit mot lagen trots att man fått uppmaningen att följa lagen.
+
+Crossskolan menar att det har funnits två upplagor av DH. Först fanns Dtr 1 som sammanställde pa 700-talet under Josia. Syftet var då att hylla Josia och sydriket. Under exilen kom Dtr 2 som lade till ytterligare text för att förklara exilen och vaför Josias reform inte gjorde att det gick bra hela tiden.
+
+Smendskolan menar att det fanns tre upplagor av DH. 2 Dtr lade till profetiorna i böckerna och 3:e Dtr lade till lagbitarna.
+
+Senare utveckling är att:
+* varje bok är skriven för sig och att man bara satt dem bredvid varandra. Invändningen är varför det finns övergångar och starka kopplingar mellan böckerna i DH.
+
+* Pandeuteronomism är att teman i 5 Mos går att hitta i hela Bibeln, så det är inte konstigt att de finns i DH.
+
+* Sam - Krön är en tidigare upplaga och att 5 Mos - Dom har inspirerats av de historieböckerna.
+
+Boken stämmer in i att Jos - Kung på något sätt en litterär enhet. Sammanförda och med en teologi som speglar 5 Mos. Sammanställningen är gjord utifrån exilens perspektiv och sammanställd då. Boken menar mot att Jos - Kung kan ha skrivits långt tidigare, de måste inte ha skrivits under exilen. Avfall och exil är teman som funnits tidigare än själva exilen. Boken menar också att kriterier för att fastställa olika redigeringar av DH är orimliga för att alla spänningar i texten ska lösas med att det är två olika författare. Även i andra texter har man upprepningar och olika ordval utan att det är olika författare. Varför ska man anse att endast 5 Mos har influerat DH? Det finns många teman i DH som går tillbaka till pentateukens tidigare böcker. Boken menar att det enda vi säkert kan veta är att gamla testamentets böcker växt fram gradvis och i symbios med varandra.
+
 ## 1 Mos
 
 Abraham - trons fader {{< bible "1 Mos" 12 1 3 >}}. Hans fundament är inte landet utan Gud som leder honom till hans nya hemland. Abraham är runt 80 år när han kallas. Abraham lämnar allt för att följa Gud.
@@ -360,12 +392,42 @@ Pilgrimsboken. Är mer berättande än 3 Mos. Fokus är att göra sig redo för 
 
 Skiljer sig från 2 Mos där fokus är att Gud ger lagen. I 5 Mos är det mer att Mose predikar och lägger ut lagen. Han uppmanar folket att hålla lagen. 5 Mos fungerar som ett förbundsdokument.
 
-### Predikan I: kap 1 - 4
-### Predikan II: kap 5 - 28
-### Predikan III: kap 29 - 30
-### Moses sista dagar: kap 31 - 34
+### Predikan I - Repetition av Israels historia: kap 1 - 4
 
+Ni har varit olydiga, men det finns en framtid. Håll lagen!
+
+### Predikan II - Utläggning av lagen: kap 5 - 28
+
+Shema - judiska tronsbekännelsen {{< bible "5 Mos" 6 4 9 >}}
+
+Lagutläggning (många av punkterna har koppling till de 10 budorden):  
+* Tillbe inte på kanaanéernas heliga platser (som skydd mot avgudadyrkan)
+* Avfall inte till andra gudar eller omoral
+* Ren och oren mat samt tionde
+* Skuld- och slavbefrielse på sabbatsåret
+* Förstfödd boskap och olika högtider
+* Auktoriteter (inkl kungen)
+* Skydd av mänskligt liv
+* Relationer mellan man och kvinna
+* Ägande rätt
+* Falskt vittnesmål
+* Fuska i affärer
+* Förbannelser och välsignelser
+
+### Predikan III - Förbundsförnyelse: kap 29 - 30
+
+Håll lagen
+
+### Epilog - Moses sista dagar: kap 31 - 34
 Mose uppmanar att läsa lagen vart sjunde år.
+
+* Moses efterträdare utses vilket är Josua och Lagen.
+* Moses sång
+    - Gud är rättvis
+    - folket är (ofta) illojala mot Gud
+    - men Gud ska rädda dem
+* Moses talar välsignelser över de tolv stammarna
+* Moses dör
 
 # Ordlista
 
