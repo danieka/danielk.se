@@ -83,7 +83,7 @@ Romersk-katolsk tradition inkluderar även deuterokanoniska skrifter i Gamla tes
 
 Gamla testamentets längd, omfattning, ålder och kulturella avstånd för det svårt att förstå gamla testamentets texter. Det finns alltid en risk att läsa in en förutfattad mening i texten man läser. I kristen tradition utgår hermeneutik från att Bibeln är Guds ord och människors ord. Bibeln är skriven i specifika situationer genom olika individer. En enkel tolkningsteori är att vi behöver både den Helige Ande och bön samt studier och rationellt arbete och exegetik. Bibeln, som Guds kommunikation, har en speciell karaktär men har också gemensamma karaktärer med andra litterära källor. Målet med exegetik är att förstå och undersöka en text utifrån litterära, teologiska och historiska sammanhang som leder fram till väl underbyggda tolkningar. Exegetik går att förstå som en undersökning där vi undersöker texten och ställer frågor till texten, men exegetik går också att förstå som en konversation där vi lyssnar in andra texter och tolkningar. (Gorman, 10)
 
-## Historisk bakgrund
+## Exegetikens historiska utveckling
 
 Inom fornkyrkan hade man ett större fokus på teologiska frågor än på historiska frågor. Det fanns två olika skolor, den antiokenska skolan och den alexkandrinska. Den antiokenska skolan använde historiska och bokstavliga metoder. Den alexandrinska skolan lästan Bibeln allegoriskt och letade efter djupare symbolik.
 
@@ -104,7 +104,14 @@ Synkrona metoder (den föreliggande texten). Fokuserar på texten som den förel
 
 Vi behöver en mångfacetterad exegetisk metod som integrerar litterära, historiska och teologiska aspekter.
 
-## Litterär kontext
+## Kontextuell analys
+
+Bibelns texter finns inte i ett vakuum. Därför analyserar vi textens kontext/omgivning. Frågor att ställa är:
+
+* In vilken historisk, sociopolitisk och kulturell situation skrev texten?
+* Hur relaterar passagen till det som kommer före och efter (snäv kontext), och hur relaterar den till hela bibelboken (vid kontext)?
+
+### Litterär kontext
 
 Litterär kontext innefattar hur perikopen förhåller sig dels till bibelboken som helhet men också hur texten förhåller sig till det som står precis före och precis efter texten. Ställ frågor till texten som när, hur, varför och vilka?
 
@@ -151,7 +158,7 @@ Vi relaterar även texten till kyrkans teologi.
 
 # Predikan
 
-1. Tema (se hjärtslag)
+1. Tema (hjärtslag)
 2. Uppdelning
 3. Tillämpning (bridge the gap)
 
@@ -171,7 +178,7 @@ Bibel 2000 bygger på den hebreiska grundtexten. Men innehåller den katolska ka
 
 Mose har förmodligen skrivit stora delar av moseböckerna. Finns fyra angreppssätt för böckerna. Kristen, ateistisk, judisk och islamsk. Pentateuken är en kristen definition av Torah.
 
-De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Fariséerna använda sig av dessa. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möljig för oss.
+De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Fariséerna använda sig av dessa. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möjlig för oss.
 
 Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5 17 18 >}}.
 
@@ -231,7 +238,134 @@ Slaveriet - synden, kap 4 - 11
 Röda havet - dopet, kap 12 - 14  
 Landet - himlen  
 
-25 - 40 om tabernaklet. Platsen där Gud bor.
+Kap 25 - 40 om tabernaklet. Platsen där Gud bor.
+
+## 3 Mosebok
+
+Boken fokuserar mycket på prästtjänsten. Mycket av materialet är svårt att förstå för en nutida läsare. När vi läser om offer har vi svårt att visualisera, och svårt att se poängen, med det vi läser. Det kan även vara oklart hur relevanta texterna är för oss. Det är även svårt att veta hur texterna ska tolkas, hur påverkar de oss. Trots detta är 3 Mos en nyckel för att förstå nya testamentet.
+
+Det är viktigt hur Israel lever eftersom de är Guds utvalda folk. Särskilt hur de uppträder i tabernaklet.
+
+Hierarki:  
+Mänsklighet - Israeliter - Levi - Präster - Överstepräst  
+Världen - Israels land - Jerusalem/Tabernaklet - Det heliga - Det allra heligaste
+Vardagar - Högtider - Sabbaten - Den stora försoningsdagen
+
+### Offerlagar: kap 1 - 7
+Fokuserar på prästernas tjänst till Gud. Offrena kan delas upp i fem kategorier:
+
+* Brännoffer  
+Det enda offret där man bränner hela djuret. Fokus är tillbedja till Gud, enom att offra visar du att du ger dig själv till Gud.
+* Matoffer  
+Görs som ett tillägg till det vanliga offret, eller som ett alternativ för de som inte har råd att offra boskap. I regel offras bröd.
+* Gemenskapsoffer  
+Görs för att fira ett bönesvar, eller för att ge ett löfte till Gud. Gemenskap mellan den som ger offer, prästen och Gud.
+* Syndoffer  
+Syndasoning, djuret får ta synderna för den som offrar. Prästen stänker blod på altaret, för att rena altaret som har blivit orent av folkets synd. Genom det blir folket förlåtet och relationen återställs till Gud.
+* Skuldoffer  
+Syndoffer renar synd, skuldoffer renar orenhet?
+
+Vid alla offer är det viktigt att djuret är felfritt. Syftet med offren är att upprätthålla en god relation med Gud. Dessa offer skedde utöver offer som skedde vid särskilda tider på dagen eller året.
+
+### Prästerna: kap 8 - 10
+Är centrum i boken och fokuserar på hur präster ska vigas. Berättar om när Mose prästviger Aron och Aron början sin prästtjänst. Arons söner, Nadabs och Abihus, tjänstgjorde på ett felaktigt sätt. Det gick då ut eld från Gud som dödade dem. Detta framhäver hur viktigt det är att Israel gör rätt i närvaron av en helig Gud. Jämför med Ananias och Safira {{< bible "Apg" 5 1 11 >}}.
+
+Aron och hans söner blev prästvigda, och det är fortfarande så inom judendom. Arons släkt är alla leviter, men inte alla leviter är inte av Arons släkt. Alla leviter har en kallelse att ta hand om templet och tabernaklet, men bara Arons släkt hade kallelse till att bli präster.
+
+### Orenhet: kap 11 - 16 
+Fokuserar på prästernas tjänst till folket. Orenhet verkar ha att göra med liv och död, t ex att röra vid en död gjorde dig oren. Motsatt relaterar liv till renhet.
+
+Att dela upp djur i rena och orena visar att Israels folk har en annorlunda ställning till Gud. Israel skulle inte äta som andra, för de var inte som andra. Många av orena djur är rovdjur, som alltså orsakar andra djurs död.
+
+Offerdjur - Präster  
+Rena djur - Israels folk  
+Orena djur - Mänskligheten
+
+Tre saker som orsakar orenhet:
+* Barnafödande, kanske relaterat till blodförlust
+* Hudsjukdomar
+* Förlora kroppsvätska, blod eller säd
+
+På den stora försoningsdagen så renar man, en gång per år, tabernaklet från folkets orenhet. Det genomförs ett syndoffrer på den stora försoningsdagen. Syndabocken fick ta folkets synd och orenhet och sedan skickade man ut bocken i öknen. Man fastade ett dygn från både mat och dryck.
+
+### Helighet: kap 17 - 28
+
+Ni ska vara heliga, ty jag är heliga {{< bible "3 Mos" 19 2 >}}.
+
+* Felaktiga offer och blodförtäring
+* Förbjudna sexuella handlingar
+* Helighetslagar - "Du ska älska din nästa som dig själv" {{< bible "3 Mos" 19 18 >}}
+* Straff
+* Prästernas helighet
+* Högtiderna
+    - Påsk
+    - Veckohögtiden (Pingst)
+    - Lövhyddohögtiden
+    - Nyår
+    - Den stora försoningsdagen
+* Skådebröden
+* Heliga år: Sabbatsår och Jubelår
+* Välsignelser och förbannelser
+* Löften, om man gett ett löfte till Gud
+
+## 4 Mosebok
+
+Pilgrimsboken. Är mer berättande än 3 Mos. Fokus är att göra sig redo för Kanaans land. Folkets klagan är återkommande i boken. Största krisen är i Kadesh när spejare rapporterar att de aldrig kommer klara att inta Kanaan.
+
+### Sinai: kap 1 - 10
+
+* Folkräkning
+* Leviternas uppgifter: Vaktar och flyttar tabernaklet
+* Rening av lägret
+    - hantering av misstänkt orenhet
+    - den aronitiska välsignelsen {{< bible "4 Mos" 6 24 27 >}}
+* Tabernaklets insida: Leviterna ordineras
+* Folket redo att gå in i Kanaan
+
+### Vandning: kap 11 - 12
+
+* En hoppfull start när folket tågar in i Kanaans land.
+* Tre klagolåtar:
+    - Folket: Vi har det dåligt {{< bible "4 Mos" 11 1 >}}
+    - Folket: Vi har inget kött {{< bible "4 Mos" 11 4 >}}
+    - Aron och Miriam: Invänder mot att Mose leder folket {{< bible "4 Mos" 12 2 >}}
+
+### Kadesh: kap 13 - 19
+
+* Spejarna (12 st - en av varje stam), landet flödade av mjölk och honung, men de blev rädda för kanaanéerna.
+    - Otro på Gud och på löftet till Abraham. Folket blir rädda och tycker det verkar omöjligt.
+    - Straffet: får vandra 40 år i öknen, folket vill dö i öknen och det är det de får göra också. Paulus varnar mot otro och hänvisar till ökenvandringen.
+* Offerlagar (och hörntofsar)
+* Uppror mot ledarskapet: Marken slukar upprorsmännen och det kommer en pest, Aron offrar för att stilla Guds vrede
+* Den röda kvigan
+
+### Vandring: kap 20 - 21
+
+* Vatten ur klippan: Mose får inte gå in i Kanaan
+* Fiender besegras
+* Folket klagar på maten - ormar kommer och biter dem - sätter upp en bronsorm för att bli botade (Jesus som kopparormen)
+
+### Moabs hedar: kap 22 - 36
+
+* Bileam - välsignar Israel
+* Folket tillber andra gudar
+* Folkräkning
+* Arvslagar och högtider
+* Löfteslagar
+* Midjaniterna besegras - "det första heliga kriget"
+* Kanaans gränser
+* Landets framtid: levitiska städer, fristäder (kunde fly hit om man gjort något fel, eller blivit falskt anklagad), Selofhabs döttrar
+
+## 5 Mosebok
+
+Skiljer sig från 2 Mos där fokus är att Gud ger lagen. I 5 Mos är det mer att Mose predikar och lägger ut lagen. Han uppmanar folket att hålla lagen. 5 Mos fungerar som ett förbundsdokument.
+
+### Predikan I: kap 1 - 4
+### Predikan II: kap 5 - 28
+### Predikan III: kap 29 - 30
+### Moses sista dagar: kap 31 - 34
+
+Mose uppmanar att läsa lagen vart sjunde år.
 
 # Ordlista
 
@@ -243,7 +377,7 @@ Exegetik: förklaring eller tolkning
 Pentateuken: Moseböckerna  
 Genesis: Första moseboken - "I begynnelsen"  
 Exodus: Andra moseboken - "Uttåget"  
-Leviticus: Tredje moseboken - "Levit/Lag"  
+Leviticus: Tredje moseboken - "Levit/Lag", från Levi stam, ett svensk namn för boken hade kunnat vara prästboken  
 Numeri: Fjärde moseboken - "Räkning"  
 Deuteronomium: Femte moseboken - "Andra lagen"  
 Kanon: rättesnöre  
