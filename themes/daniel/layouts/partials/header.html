@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
     <meta charset="utf-8">
-    <base href="{{ .Site.BaseURL }}">
+    <base href="{{ .Permalink }}">
     <link rel="canonical" href="{{ .Permalink }}">
     <!-- <link href="https://fonts.googleapis.com/css?family=Crimson+Text" rel="stylesheet">  -->
     {{ $styles := resources.Get "scss/base.scss" | toCSS | minify | fingerprint }}

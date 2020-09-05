@@ -1,13 +1,15 @@
 languageCode = "en-us"
 title = "Daniel Karlsson"
-baseURL = "https://www.danielk.se/"
 theme = "daniel"
 
 [blackfriday]
 angledQuotes = false
 
-[markup.goldmark.renderer]
-unsafe= true
+[markup]
+    [markup.goldmark.renderer]
+        unsafe= true
+    [markup.tableOfContents]
+        startLevel = 1
 
 [author]
     name = "Daniel Karlsson"

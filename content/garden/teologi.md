@@ -6,6 +6,9 @@ categories:
 
 # Teologi
 
+> _För vishet ska komma in i ditt hjärta och kunskap bli ljuvlig för din själ, omdöme ska bevara dig och klokhet beskydda dig._  
+> <small>Ordspråksboken 2:10-11</small>
+
 I missionens och evangeliets tjänst - för världens skull. Teologiska studier måste förankra studenterna i Bibeln så att de kan närma sig alla problem bibliskt, så de kan stärka Guds folk med Guds ord. Studier som inte leder till det misslyckas med sitt uppdrag att tjäna kyrkan och världen. (Wright, Christian Mission and the Modern World, s. 147)
 
 Studiet av Bibeln måste vara den centrala disciplinen i den kristna teologin. (Cape Town Commitment)
