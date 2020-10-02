@@ -1,6 +1,7 @@
 languageCode = "en-us"
 title = "Daniel Karlsson"
 theme = "daniel"
+baseURL = "https://www.danielk.se/"
 
 [blackfriday]
 angledQuotes = false
@@ -36,4 +37,10 @@ angledQuotes = false
     name = "contact"
     weight = 30
     url = "/contact/"
+
+
+[[menu.teologi]]
+    name = "teologi"
+    weight = 10
+    url = "/garden/teologi"
 

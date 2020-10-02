@@ -7,7 +7,7 @@ body {
     text-rendering: optimizeLegibility;
     font-family: $ff;
 
-    @media(max-width: 800px) {
+    @media (max-width: 800px) {
         font-size: 0.7em;
     }
     margin: 0;
@@ -17,15 +17,15 @@ $black: #111;
 
 h1 {
     font-size: 2em;
-    margin-top: 1.5em;
+    margin-top: 3rem;
     margin-bottom: 0.8em;
     letter-spacing: 0.5px;
     font-variant-caps: normal;
     font-weight: 600;
 
     a {
-       letter-spacing: 0.5px;
-        font-variant-caps: normal; 
+        letter-spacing: 0.5px;
+        font-variant-caps: normal;
     }
 
     & + h1 {
@@ -50,7 +50,6 @@ h3 {
     & + p {
         margin-top: 0.3em;
     }
-
 }
 
 p {
@@ -65,7 +64,9 @@ p {
     }
 }
 
-ul, ol, p {
+ul,
+ol,
+p {
     font-size: 1.3rem;
 }
 
@@ -80,7 +81,7 @@ ol {
 aside {
     @extend p;
 
-    @media(min-width: 900px) {
+    @media (min-width: 900px) {
         height: 0;
         position: relative;
         left: -350px;
@@ -114,7 +115,7 @@ a {
 }
 
 blockquote {
-    @media(max-width: 800px) {
+    @media (max-width: 800px) {
         margin-right: 1em;
         margin-left: 1em;
     }
@@ -129,20 +130,27 @@ cite {
     color: red;
 
     @supports (display: grid) {
-        & { display: none; }
+        & {
+            display: none;
+        }
     }
 }
 
 #navigation {
     text-transform: uppercase;
-    font-size: 2em;
+    font-size: 1.6em;
     margin-top: 1em;
     display: flex;
     flex-direction: column;
     position: absolute;
     flex-wrap: wrap;
 
+    position: relative;
+    flex-direction: row;
+    justify-content: space-around;
+
     a {
+        text-align: center;
         flex-grow: 1;
         margin: 0.5em;
         letter-spacing: 2px;
@@ -157,17 +165,7 @@ cite {
         }
     }
 
-    @media(max-width: 1300px) {
-        position: relative;
-        flex-direction: row;
-        justify-content: space-around;
-
-        a {
-            text-align: center;
-        }
-    }
-
-    @media(max-width: 800px) {
+    @media (max-width: 800px) {
         font-size: 1.6em;
     }
 }
@@ -182,9 +180,23 @@ cite {
         display: none;
     }
 
-    .content, .footer {
+    .content,
+    .footer {
         grid-column: 3;
-        max-width: calc(100vw  - 3.5em);
+        max-width: calc(100vw - 3.5em);
+    }
+
+    .table-of-contents {
+        padding: 3em 1em 0;
+        grid-column: 2;
+
+        ul {
+            margin-top: -4px;
+        }
+
+        @media (max-width: 1000px) {
+            display: none;
+        }
     }
 
     .content {
@@ -203,7 +215,8 @@ form {
     flex-direction: column;
     margin-bottom: 4em;
 
-    input, textarea {
+    input,
+    textarea {
         border: none;
         border-bottom: solid 1px #bdbdbd;
         font-family: ff;
@@ -215,7 +228,7 @@ form {
     label {
         font-size: 1.4em;
     }
-    
+
     button {
         width: 5em;
         border: none;
@@ -252,11 +265,13 @@ iframe {
 details {
     background: #ecf2f2;
     padding: 10px;
-    
-    p, ul, ol {
+
+    p,
+    ul,
+    ol {
         font-size: 1rem;
     }
-    
+
     summary {
         font-size: 1rem;
     }
@@ -265,7 +280,7 @@ details {
 .bible-text {
     position: relative;
     margin: 0 -4px;
-    
+
     .popover {
         display: none;
         position: absolute;
@@ -277,17 +292,16 @@ details {
             display: block;
             background: #ebd8f0;
             padding: 1rem 2rem;
-            box-shadow: 3px 4px 16px 3px rgba(0,0,0,0.75);
-    
+            box-shadow: 3px 4px 16px 3px rgba(0, 0, 0, 0.75);
+
             width: 30em;
-    
+
             .reference {
                 display: block;
                 margin-top: 1rem;
                 text-align: right;
                 font-size: 0.8em;
             }
-
         }
 
         &:hover {
@@ -297,5 +311,13 @@ details {
 
     &:hover .popover {
         display: block;
+    }
+}
+
+.breadcrumbs {
+    margin-top: 3rem;
+
+    + h1 {
+        margin-top: 1rem;
     }
 }
