@@ -4,9 +4,11 @@ categories:
   - Garden
 ---
 
-# Gamla testamentets omvärld
+# Gamla Testamentets omvärld
 
-Största delen av gamla testamentets skildringar berör tiden mellan 1 500 f.Kr - 63 f.Kr.
+Största delen av gamla testamentets (inkl. apokryfernas) skildringar berör tiden mellan 1 500 f.Kr - 63 f.Kr.
+
+## Mellanösterns stormakter
 
 1550 - 1200 f.Kr  
 Fem stormakter dominerar: Egypten, Assyrien, Babylonien, Hettiterna och Mitanni
@@ -44,7 +46,7 @@ Slavar delades upp mellan krigsslavar och slavar som stod i ekonomiskt beroende.
 
 Jordbruk och djurhållning var basen i ekonomin och handeln var avgörande för utveckling av samhället.
 
-En blandning av nomader, halvnomader, bofasta stads- och bybor.
+Folket var en blandning av nomader, halvnomader, bofasta stads- och bybor.
 
 Det utvecklas en form av stadsstater med instutitioner som förvaltade, och hade auktoritet, över bestämta territorium. I synnerhet längs med handelsvägarna. Megiddo och kapernaum är ett exempel på sådana stadsstater.
 
@@ -485,9 +487,9 @@ Skildrar en ny tid för Israel. En övergång av Gudstjänsten från Silo till J
 
 ## 1 Sam 1-15 Samuel och Saul
 
-## 1 Sam 1 - 2 Sam 8 Davidvs väg till makten
+## 1 Sam 16 - 2 Sam 8 Davidvs väg till makten
 
-## 3 Sam 6-20 Davids regeringstid
+## 2 Sam 6-20 Davids regeringstid
 
 Under kungadömet är profeternas roll vid hovet som Guds språkrör. Till exempel som Natan som tillrättavisar David efter hans affär med Batseba. Kungen har ett ansvar att lyda Guds vilja. Kungarna skildras negativt när de inte följer Guds vilja. Det är en monarki som förväntas vara underkastad Guds vilja och vägledning.
 

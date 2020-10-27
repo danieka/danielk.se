@@ -33,10 +33,21 @@ Vi behöver en mångfacetterad exegetisk metod som integrerar litterära, histor
 
 ## Kontextuell analys
 
-Bibelns texter finns inte i ett vakuum. Därför analyserar vi textens kontext/omgivning. Frågor att ställa är:
+Bibelns texter finns inte i ett vakuum utan skrivs till specifika mottagare i specifika situationer. Därför analyserar vi textens kontext/omgivning. Frågor att ställa är:
 
-- In vilken historisk, sociopolitisk och kulturell situation skrev texten?
+- In vilken historisk, sociopolitisk och kulturell situation skrevs texten?
+  - Vilka är de centrala karaktärsdragen för gruppen som texten riktar sig till?
+  - Vilka händelser, politiska realiteter, platser, sedvänjor, värderingar och trosuppfattningar hänvisas till i texten?
+  - Vilken sorts situation kan ha inspirerat författaren att skriva ned texten?
 - Hur relaterar passagen till det som kommer före och efter (snäv kontext), och hur relaterar den till hela bibelboken (vid kontext)?
+
+Personer och samhällen kan säges bestå av tre aspekter (Gorman, s 70):
+
+- Saker de upplevt eller fått återberättade
+- Privata och offentliga relationer de har
+- Värderingar som de håller, medvetet eller omedvetet
+
+Läs gärna mer under Gamla Testamentets omvärld för att få uppslag till aspekter att ta in i en exegetisk analys.
 
 ### Litterär kontext
 
@@ -97,3 +108,20 @@ Bygger på en optimism om att forskare som lever idag ska kunna rekonstruera hur
 ## Narrativ metod
 
 Alla böcker har, även historiska böcker, har en narrativ form. Motsägningar och upprepningar kan uppfattas som meningsfulla motiv i berättelser. Kritiken här är att denna metoden överskattar författarnas litterära verksamhet.
+
+## Tre metaforer för Gud i Bibeln
+
+Dessa tre metaforer kan användas som nycklar för att besvara frågan om Gud i NT är samma Gud som i GT. Se Making Sense of the Old Testament (Longman), sidorna 55-102 för mer information.
+
+### Gud som förbundsskrivande kung
+
+Gamla testamentet genomsyras av Guds förbund med Noa, Abraham, Jakob, Moses och David. Människorna agerar som företrädare för Israel. Varje av dessa förbund bygger på det tidigare förbundet. Gud befäster även sina förbund vid flera tillfällen, men då utan att introducera ny materia till förbundet.
+
+Förbundet går att se som ett avtal mellan Gud och sitt folk och strukturen för förbundet finns reflekterat i samtida kulturer i Mellanöstern. Analyser av andra förbundsavtal, eller vassalavtal, har visat att förbunden i GT noga följer det etablerade formatet för hur sådan avtal skulle utformas. Gud använder alltså en vedertagen juridisk konvention för att skriva sitt förbundsavtal. Ett sådant avtal bestod typiskt av sex delar:
+
+1. Introduktion av parterna
+2. Historisk prolog
+3. Lag (parternas förpliktelser)
+4. Välsignelser och förbannelser (sanktioner)
+5. Vittnen
+6. Avtalshantering (hur ska avtalet förvaras? ska det läsas upp?)
