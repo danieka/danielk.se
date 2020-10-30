@@ -167,26 +167,29 @@ Brueggeman säge att läsningen av GT ger trosregeln och hans slutsats är att G
 
 # Moseböckerna
 
-Mose har förmodligen skrivit stora delar av moseböckerna. Finns fyra angreppssätt för böckerna. Kristen, ateistisk, judisk och islamsk. Pentateuken är en kristen definition av Torah.
-
 De äldstes stadgar var en tolkning av lagen som gjorde det möjligt att följa lagen. Fariséerna använda sig av dessa. Jesus var kritisk mot denna. Eftersom vi läser lagen efter Nya Testamentet är en sådan tolkning inte möjlig för oss.
 
 Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5 17 18 >}}.
 
+## Författarskap
+
+Mose har enligt judisk, och kristen, tradition skrivit stora delar av Moseböckerna. Nya Testamentet utgår från denna traditionen. Detta var det vanliga synsättet fram till 1800-talet då den dokumentära hypotesen växte fram.
+
 ## Pentateukens tema
 
-Tre teorier för pentateukens genomgående tema.
+Moseböckernas genre ska enligt Wenham beskrivas som Torah, alltså "levnadsregler", i formen av en biografi över Moses. Det finns tre viktiga teorier för pentateukens genomgående tema. {{< bible "1 Mos" 12 1 3 >}} är programmatisk för det följande narrativet med fyra distinkta element: landet, arvingar, förbund och välsignelse för alla folk. Välsignelsen för alla folk får inte ens en partiell uppfyllelse i Pentateuken, bortsett kanske från vissa av Abrahams och framförallt Josefs gärningar.
 
-- Martin Noth  
-  Pentateuken byggs upp av fem huvudteman: Ledning ut ur Egypten, Ledning i förlovande landet, löften till patriarker, ledning i ökenen, löftet på Sinai
-- Gerhard von Rad
-- David Clines  
-  Menar att litterära verka har bara ett huvudtema man vill förmedla (Wenham 123-142??). Menar att exegetiken har fokuserat på fel frågor vilket är de historiska frågorna (diakrona) som hur texten kommit till. Problemet är att man fokuserar på detaljer på bekostnad av helheten. Det blir spekulativt eftersom vi inte kan veta vem som skrivit texterna i pentateuken. Temat är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors initiativ får ödesdigra konsekvenser, Guds ursprungliga tanke med människan. Huvudtemat löftet till Abraham.
+### Martin Noth
 
-  Huvudtemat är de partiella uppfyllandet av patriarklöftena som består på tre delar: arvingar, förbund och land.
+Noth utgår från att berättelerna som idag är Pentateuken började som korta berättelser som sedan blivit längre och broderats ut före det att de fick sin skrivna form. Genom att skala bort det överflödiga och hitta den gamla kärnan kan man identifiera Pentateukens teman som: ledning ut ur Egypten, ledning in i förlovande landet, löften till patriarker, ledning i ökenen och uppenbarelsen på Sinai. Noth menar att det viktigaste temat och kärnan i Pentateuken är att Gud förde Israel, eller i varje fall några av Israels stammar, ut ur Egypten. Han menade att temana i sin orala tradition inte hade någon koppling utan den sammanhängande berättelsen kom först när Pentateuken skrevs ner.
 
-1 Mos 1 - 11: Pessimistisk  
-1 Mos 12: Optimism när Abraham kommer in
+### Gerhard von Rad
+
+Gerhard von Rad menar att den tidigaste formen av Hexteukens - han räknade Josua som Pentateukens fortsättning och upplösning - hittas i {{< bible "5 Mos" 25 5 9 >}}. Denna text innehåller alla viktiga episoter i Pentateuken: patriarkernas kallelse, slaveriet i Egypten, uttåget och erövringen av landet. von Rad menar att Yahvisten haft störst inflytande på Pentateuken genom att lägga till många detaljer i berättelserna. Den Yahvistiska Pentateuken fokuserade på två förbund, med patriarkerna och förbundet på Sinai. von Rad menar att Prästkällan integrerats i Pentateuken vid ett senare tillfälle. von Rad menar att Pentateuken formats av kombinationen av Yahivist och Prästkälla. von Rad ser löftet till Abraham och dess uppfyllelse som Pentateukens enande tema.
+
+### David Clines
+
+Noth och von Rad försöker hitta Pentateukens tema genom att utforska dess tillkomst, från korta berättelser till dess slutgiltiga form. Clines, och många med honom, menar att detta låter detaljer ta fokus från helheten och att diakrona metoder lätt blir spekulativa. Clines menar att vi ska börja i textens nuvarande form eftersom det är den enda versionen vi säkert kan veta hur den ser ut. Där Noth och von Rad med "teman" menar viktiga händelser menar Clines att tema är "handling med emfas på konceptualiserad innebörd/mening", det är författarens agende med att skriva verket. Clines menar att Pentateukens tema är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors egno initiativ får ödesdigra konsekvenser och bekräftelse av Guds ursprungliga tanke med människan. Liksom von Rad menar Clines att patriarklöftena innehåller tre komponenter: arvingar(folket), förbundet och relationen mellan Gud och människa och landet. Varje element är beroende av de andra.
 
 ## Deuteronomistiska historieverket (DH)
 
