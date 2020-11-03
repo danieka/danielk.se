@@ -173,23 +173,31 @@ Jesus bekräftar lagen som varken ska upphävas eller ändras {{< bible "Matt" 5
 
 ## Författarskap
 
-Mose har enligt judisk, och kristen, tradition skrivit stora delar av Moseböckerna. Nya Testamentet utgår från denna traditionen. Detta var det vanliga synsättet fram till 1800-talet då den dokumentära hypotesen växte fram.
+Mose har enligt judisk, och kristen, tradition skrivit stora delar av Moseböckerna. Nya Testamentet utgår från denna traditionen. Detta var det vanliga synsättet fram till 1800-talet då den dokumentära hypotesen växte fram. Den hypotesen kommer ur reformationen, som förnyade intresset för Bibelns mening och ursprung, och ur renässansens intresse för antika kulturer och källor.
 
-## Pentateukens tema
+Upplysningen förde med sig synsättat att människan, inte Gud, var domare över sant och falskt, gott och ont. Tänkare under upplysningen var skeptiska mot mirakler och andra övernaturliga element i Bibeln som de menade inte gick att bevisa.
 
-Moseböckernas genre ska enligt Wenham beskrivas som Torah, alltså "levnadsregler", i formen av en biografi över Moses. Det finns tre viktiga teorier för pentateukens genomgående tema. {{< bible "1 Mos" 12 1 3 >}} är programmatisk för det följande narrativet med fyra distinkta element: landet, arvingar, förbund och välsignelse för alla folk. Välsignelsen för alla folk får inte ens en partiell uppfyllelse i Pentateuken, bortsett kanske från vissa av Abrahams och framförallt Josefs gärningar.
+Spinoza är den första tänkaren som 1670 menar att Pentateuken inte kan ha skrivits av Moses. Den talar om Moses i tredje person, använder nyare namn för platser (e. g. Dan) m.m. Spinoza menade att Esra hade skrivit Pentateuken.
 
-### Martin Noth
+Jean Astruc är identifierar att det förekommer olika namn för Gud i Pentateuken (Jahve och Elohim) och att samma berättelse återupprepas, men lite annorlunda (t ex Sara blir tagen av en främmande kung). Hans slutsats är att Mose skrev fyra synoptiska Moseböcker som sedan vävts samman. Hans teori vann inte mycket stöd, men hans metoder har fått stor betydelse för fortsatt forskning.
 
-Noth utgår från att berättelerna som idag är Pentateuken började som korta berättelser som sedan blivit längre och broderats ut före det att de fick sin skrivna form. Genom att skala bort det överflödiga och hitta den gamla kärnan kan man identifiera Pentateukens teman som: ledning ut ur Egypten, ledning in i förlovande landet, löften till patriarker, ledning i ökenen och uppenbarelsen på Sinai. Noth menar att det viktigaste temat och kärnan i Pentateuken är att Gud förde Israel, eller i varje fall några av Israels stammar, ut ur Egypten. Han menade att temana i sin orala tradition inte hade någon koppling utan den sammanhängande berättelsen kom först när Pentateuken skrevs ner.
+Sedan slutet av 1900-talet har konsensusen runt den dokumentära hypotesen försvunnit. Både kriterierna för att identifiera olika källor och argumenten för dateringar har ifrågasatts. Senare studier av Bibeln har fokuserat mer på en enhetlig läsning av texten. Distinktionen mellan J och E är nu ifrågasatt av många, distinktionen mellan JE och P har mer stöd.
 
-### Gerhard von Rad
+Whybray menar att Pentateuken är skriven av en historiker och att det, förutom vissa mindre tillägg, är Pentateukens slutgiltiga form. Denna historiker lär har använt sig av många källor. Han menar att Pentateuken ska dateras till 500 f Kr. 
 
-Gerhard von Rad menar att den tidigaste formen av Hexteukens - han räknade Josua som Pentateukens fortsättning och upplösning - hittas i {{< bible "5 Mos" 25 5 9 >}}. Denna text innehåller alla viktiga episoter i Pentateuken: patriarkernas kallelse, slaveriet i Egypten, uttåget och erövringen av landet. von Rad menar att Yahvisten haft störst inflytande på Pentateuken genom att lägga till många detaljer i berättelserna. Den Yahvistiska Pentateuken fokuserade på två förbund, med patriarkerna och förbundet på Sinai. von Rad menar att Prästkällan integrerats i Pentateuken vid ett senare tillfälle. von Rad menar att Pentateuken formats av kombinationen av Yahivist och Prästkälla. von Rad ser löftet till Abraham och dess uppfyllelse som Pentateukens enande tema.
+#### Den fragmentära hypotesen
 
-### David Clines
+Den enklaste hypotesen för författarskapet; menar att Pentateuken haft en redaktör som fogat samman många olika fragment. Redaktören har lagt till egna kommentarer och modifierat fragmenten något, men inte så mycket att de tappat sin ursprungliga karaktär.
 
-Noth och von Rad försöker hitta Pentateukens tema genom att utforska dess tillkomst, från korta berättelser till dess slutgiltiga form. Clines, och många med honom, menar att detta låter detaljer ta fokus från helheten och att diakrona metoder lätt blir spekulativa. Clines menar att vi ska börja i textens nuvarande form eftersom det är den enda versionen vi säkert kan veta hur den ser ut. Där Noth och von Rad med "teman" menar viktiga händelser menar Clines att tema är "handling med emfas på konceptualiserad innebörd/mening", det är författarens agende med att skriva verket. Clines menar att Pentateukens tema är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors egno initiativ får ödesdigra konsekvenser och bekräftelse av Guds ursprungliga tanke med människan. Liksom von Rad menar Clines att patriarklöftena innehåller tre komponenter: arvingar(folket), förbundet och relationen mellan Gud och människa och landet. Varje element är beroende av de andra.
+#### Den supplementära hypotesen
+
+Menar att ett kort ursprungligt verk låg till grund för Pentateuken och detta har utökats och bearbetats av senare redaktörer. Som en snöboll har texten samlat på sig material till det den är idag. Det tidigaste lagret var Dekalogen och 3 Mos 21 - 23. Följande lager var Elohim-lagret, Jahve-lagret och till sist Deuteronomi-lagret.
+
+#### Den dokumentära hypotesen
+
+Wellhausen identifierade fyra källor. Den äldsta källan är Yahwisten, eller J. J menas ha skrivit Genesis och första halvan av Exodus. Näst äldsta källan är Elohisten. Elohisten löper parallellt med J, men med början i Genesis 15. Den tredje källan är Deuteronimi. Den fjärde källan är Prästkällan som är alla delar i Exodus, Leviticus och Numbers som relaterar till prästtjänst och tillbedjan. Släkttavlorna i Genesis tillskrivs också till Prästkällan. Enligt den dokumentära hypotesen var dessa källor först skilda men har sedan vävts samman av en redaktör och fått sin slutliga utformning 450 f Kr.
+
+Wellhausen bygger sin datering på argumentet att praxis i Israel kom först och att man efter det skrev ned Pentateuken som en efterhandskonstruktion. I tidiga delar av Pentateuken får offer ske varsomhelst, vilket motsvaras av tiden före Jerusalem var Israels huvudstad. De delar av Pentateuken som talar om ett ställe för offer skulle vara skrivna då gudstjänsten centraliserades till Jerusalem.
 
 ## Deuteronomistiska historieverket (DH)
 
@@ -212,6 +220,22 @@ Senare utveckling är att:
 ### Bokens syn
 
 Boken stämmer in i att Jos - Kung på något sätt en litterär enhet. Sammanförda och med en teologi som speglar 5 Mos. Sammanställningen är gjord utifrån exilens perspektiv och sammanställd då. Boken menar mot att Jos - Kung kan ha skrivits långt tidigare, de måste inte ha skrivits under exilen. Avfall och exil är teman som funnits tidigare än själva exilen. Boken menar också att kriterier för att fastställa olika redigeringar av DH är orimliga för att alla spänningar i texten ska lösas med att det är två olika författare. Även i andra texter har man upprepningar och olika ordval utan att det är olika författare. Varför ska man anse att endast 5 Mos har influerat DH? Det finns många teman i DH som går tillbaka till pentateukens tidigare böcker. Boken menar att det enda vi säkert kan veta är att gamla testamentets böcker växt fram gradvis och i symbios med varandra.
+
+## Pentateukens tema
+
+Moseböckernas genre ska enligt Wenham beskrivas som Torah, alltså "levnadsregler", i formen av en biografi över Moses. Det finns tre viktiga teorier för pentateukens genomgående tema. {{< bible "1 Mos" 12 1 3 >}} är programmatisk för det följande narrativet med fyra distinkta element: landet, arvingar, förbund och välsignelse för alla folk. Välsignelsen för alla folk får inte ens en partiell uppfyllelse i Pentateuken, bortsett kanske från vissa av Abrahams och framförallt Josefs gärningar.
+
+### Martin Noth
+
+Noth utgår från att berättelerna som idag är Pentateuken började som korta berättelser som sedan blivit längre och broderats ut före det att de fick sin skrivna form. Genom att skala bort det överflödiga och hitta den gamla kärnan kan man identifiera Pentateukens teman som: ledning ut ur Egypten, ledning in i förlovande landet, löften till patriarker, ledning i ökenen och uppenbarelsen på Sinai. Noth menar att det viktigaste temat och kärnan i Pentateuken är att Gud förde Israel, eller i varje fall några av Israels stammar, ut ur Egypten. Han menade att temana i sin orala tradition inte hade någon koppling utan den sammanhängande berättelsen kom först när Pentateuken skrevs ner.
+
+### Gerhard von Rad
+
+Gerhard von Rad menar att den tidigaste formen av Hexteukens - han räknade Josua som Pentateukens fortsättning och upplösning - hittas i {{< bible "5 Mos" 25 5 9 >}}. Denna text innehåller alla viktiga episoter i Pentateuken: patriarkernas kallelse, slaveriet i Egypten, uttåget och erövringen av landet. von Rad menar att Yahvisten haft störst inflytande på Pentateuken genom att lägga till många detaljer i berättelserna. Den Yahvistiska Pentateuken fokuserade på två förbund, med patriarkerna och förbundet på Sinai. von Rad menar att Prästkällan integrerats i Pentateuken vid ett senare tillfälle. von Rad menar att Pentateuken formats av kombinationen av Yahivist och Prästkälla. von Rad ser löftet till Abraham och dess uppfyllelse som Pentateukens enande tema.
+
+### David Clines
+
+Noth och von Rad försöker hitta Pentateukens tema genom att utforska dess tillkomst, från korta berättelser till dess slutgiltiga form. Clines, och många med honom, menar att detta låter detaljer ta fokus från helheten och att diakrona metoder lätt blir spekulativa. Clines menar att vi ska börja i textens nuvarande form eftersom det är den enda versionen vi säkert kan veta hur den ser ut. Där Noth och von Rad med "teman" menar viktiga händelser menar Clines att tema är "handling med emfas på konceptualiserad innebörd/mening", det är författarens agende med att skriva verket. Clines menar att Pentateukens tema är det delvisa uppfyllandet av löftena till patriarkerna, Guds initiativ i en värld där människors egno initiativ får ödesdigra konsekvenser och bekräftelse av Guds ursprungliga tanke med människan. Liksom von Rad menar Clines att patriarklöftena innehåller tre komponenter: arvingar(folket), förbundet och relationen mellan Gud och människa och landet. Varje element är beroende av de andra.
 
 ## 1 Mos
 
@@ -336,7 +360,7 @@ Ni ska vara heliga, ty jag är heliga {{< bible "3 Mos" 19 2 >}}.
 - Prästernas helighet
 - Högtiderna
   - Påsk
-  - Veckohögtiden (Pingst)
+  - Veckohögtiden (Pingst)s
   - Lövhyddohögtiden
   - Nyår
   - Den stora försoningsdagen
@@ -504,7 +528,13 @@ Det finns generellt få arkeologiska bevis för David och Salomo. Dan-inskriften
 
 # Kungaböckerna
 
-Sträcker sig över ca 500 år, från det att första templet byggs tills det att det rivs, från Israels storhetstid till katastrofen.
+Sträcker sig över ca 500 år, från det att första templet byggs tills det att det rivs, från Israels storhetstid till katastrofen. Följer kungarna efter David, och ingen av dem lever upp till löftet som David fick av Gud. Efter varje kung så ger författaren en utvärdering av kungen på tre kriterier:
+
+- Tillbad kungen Gud och inga andra gudar?
+- Rensade han ut avgudar från Israel?
+- Var han trogen förbundet?
+
+Utifrån dessa kriterier fanns det inga bra kungar i Nordriket och 20 dåliga. I Juda fanns det åtta bra kungar och tolv dåliga.
 
 - Guds särställning - ende guden som är värd tillbedjan, Israels otrohet leder till exilen
 - Monarkins misslyckande; till skillnad från andra texter från främre asien så kritiseras kungarna, och profeterna säger åt kungarna vad de ska göra.
@@ -528,17 +558,16 @@ Arkeologin bekräftar förekomsten av husgudar i Nordriket
 
 ## 1 Kung 1-11 Salamos regering
 
-- David offentliggör Salomo kröning
+- David offentliggör Salomo kröning och uppmanar honom att hålla fast vid Gud, men samtidigt planerar de hur de ska mörda Salomos fiender.
 - Salomo söker Gud i bön -> blir mycket vis och rik
 - Salomo bygger templet, och ber om att Gud ska bo där
-
-5 Mos 17:17-17
+Så fort han byggt klart templet börjar han göra dåliga val och gifter sig med kvinnor från andra folk, och tar med sig deras Gudar. Han blir rik, och har slavar till sina byggprojekt. Han följer inte riktlinjerna i 5 Mos 17:17-17.
 1 Kung 10:26-28
 
 ## 1 Kung 12-16 Rikets delning
 
-Rehabeam blir kung i Sydriket
-Jerobeam blir kung i Nordriket
+Salomos son Rehabeam blir kung i Sydriket och agerar som sin far och Nordriket gör uppror och separerar från sydriket. 
+Jerobeam blir kung i Nordriket som kommer ha Samarien som huvudstad. Han bygger två tempel för att överträffa templet i Jerusalem. I varje tempel finns en guldkalv.
 "för Davids skull" finns det hopp för Juda
 
 ## 1 Kung 17 - 2 Kung 10 De två rikena; Elia och Elisa
@@ -547,19 +576,19 @@ Ahab är ond, både i sig själv, men också för att han tillåter det onda. Ha
 
 Hans efterträdare Elisa är lite som en andra Josua. Delar Jordan och slutför Elias uppdrag. Elisa plockar upp Elias mantel och ber om en dubbel arsvlott och gör sedan stora mirakler.
 
-Jehu är en relativt god kung som får i uppdrag att döda Isebel, Ahab och Ahabs ättlingar så att Jerobeams ätt inte ska finnas kvar. Ska också döda baalsprofeterna och deras tempel. Han är den enda kungen i nordriket som inte är ond.
+Jehu är en relativt god kung som får i uppdrag att döda Isebel, Ahab och Ahabs ättlingar så att Jerobeams ätt inte ska finnas kvar. Ska också döda baalsprofeterna och deras tempel. Han är den enda kungen i nordriket som inte är ond. Men hans våld blir för stort och efter honom så blir det massa kupper fram tills dess att Assyrien invaderar.
 
 ## 2 Kung 11-17 Israels sista tid
 
-Kungarna är onda. Assyrien invaderar, deporterar och blandar befolkningen. ca 722 f Kr.
+Kungarna är onda. Assyrien invaderar, deporterar och blandar befolkningen. ca 722 f Kr. Fallet beror på avgudadyrkan och att man inte varit trogen förbundet.
 
 ## 2 Kung 18-25 Judas tid
 
 Hiskia var en jättebra kung som stoppade avgudadyrkan. Han sa att man skulle tillbe i Jerusalem, flörtade inte med Syrien. Följde Guds lag och när Assyrien invaderar så uppmanar Jesaja Hiskia att inte kapitulare, och Gud räddar också Jerusalem från den assyriska armén.
 
-Manasse var en dålig kung som började med avgudadyrkan och att orena templet.
+Manasse var en dålig kung som började med avgudadyrkan och att orena templet. Han offrade också barn.
 
-Josia är en bra kung som reformerar, förnyar förbundet, utrotar avgudadyrkan och firar påsk.
+Josia är en bra kung som reformerar, förnyar förbundet, utrotar avgudadyrkan och firar påsk. Men det räcker inte för att förhindra att Juda blir ockuperat av Egypten.
 
 - Egypten ockuperar Juda
 - Babylon tar över
@@ -571,25 +600,25 @@ Ungefär samma period som Kungaböckerna. Krönikeböckerna är mer optimistiska
 
 ## 1 Krön 1 - 9 Adam till återkomsten (släktregister)
 
-Israel och Judas härkomst. Kapitel 9 fokuserar på återkomesten för Juda och Benjamin men också Leviterna eftersom det är de som tjänstgör i templet.
+Israel och Judas härkomst, med fokus på Davids ätt som ska leda till den messianska kungen. Kapitel 9 fokuserar på återkomesten för Juda och Benjamin men också Leviterna eftersom det är de som tjänstgör i templet.
 
 ## 1 Krön 10 - 2 Krön 9 David och Salomo
 
-Saul är avfällingen och David är krigaren. David nämns i positivt ljus, hans problem nämns inte. Salomo nämns som den fredlige kungen, och inte heller hans problem nämns.
+Saul är avfällingen och David är krigaren. David nämns i positivt ljus, hans problem nämns inte. Salomo nämns som den fredlige kungen, och inte heller hans problem nämns. David får instruktioner för att bygga templet. David är framställs typologiskt.
 
 ## 2 Krön 10 - 36 Rehabeam till återkomsten
 
-Framförallt Judas kungar. Avslutas med att Koreshs edikt att judarna ska få återvända.
+Fokuserar på Judas kungar. Avslutas med att Koreshs edikt att judarna ska få återvända.
 
 # Esra - Nehemja
 
-Ursprungligen en bok. Utspelar sig direkt efter krönikeböckerna och Koreshs edikt. Folket bygger återvänder och bygger upp Jerusalems tempel och murar samt förnyar förbundet.
+Ursprungligen en bok. Utspelar sig direkt efter krönikeböckerna och Koreshs edikt. Folket återvänder till Juda och bygger upp Jerusalems tempel och murar samt förnyar förbundet. Serubbabel leder folket tillbaka till Jerusalem.
 
 - Koresh edikt och en förteckning över vilka som återvänder.
 - Folket börjar bygga upp templet men när de byggt platsen för brännoffer och lagt grunden så grät de gamla för de hade sett det gamla templet som var mer storslaget. Tempelbygget mötte motsånd från folket som bodde i landet, och Persiens kung motsatte sig byggandet av murarna.
 - Profeterna Haggai och Sakarja uppmanar folket att fortsätta byggandet av templet.
-- Templet invigs.
-- Esra tar upp problemen med blandäktenskap och folket omvänder sig.
+- Templet invigs, men de gamla blir gamla för de ser hur litet templet är. Det skrivs inte att Gud bor i templet.
+- Esra tar upp problemen med blandäktenskap och folket omvänder sig delvis.
 - Nehemja blir ledsen när han hör att Jerusalems murar ligger i ruiner och kommer tillabka för att bygga upp murarna. Han möter på motstånd, både internt och externt, men man lyckas bygga upp murarna.
 - Esra föreläser lagen, folket ångrar sin synd och förbundet förnyas.
 
