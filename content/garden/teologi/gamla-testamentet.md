@@ -183,7 +183,7 @@ Jean Astruc är identifierar att det förekommer olika namn för Gud i Pentateuk
 
 Sedan slutet av 1900-talet har konsensusen runt den dokumentära hypotesen försvunnit. Både kriterierna för att identifiera olika källor och argumenten för dateringar har ifrågasatts. Senare studier av Bibeln har fokuserat mer på en enhetlig läsning av texten. Distinktionen mellan J och E är nu ifrågasatt av många, distinktionen mellan JE och P har mer stöd.
 
-Whybray menar att Pentateuken är skriven av en historiker och att det, förutom vissa mindre tillägg, är Pentateukens slutgiltiga form. Denna historiker lär har använt sig av många källor. Han menar att Pentateuken ska dateras till 500 f Kr. 
+Whybray menar att Pentateuken är skriven av en historiker och att det, förutom vissa mindre tillägg, är Pentateukens slutgiltiga form. Denna historiker lär har använt sig av många källor. Han menar att Pentateuken ska dateras till 500 f Kr.
 
 #### Den fragmentära hypotesen
 
@@ -561,12 +561,12 @@ Arkeologin bekräftar förekomsten av husgudar i Nordriket
 - David offentliggör Salomo kröning och uppmanar honom att hålla fast vid Gud, men samtidigt planerar de hur de ska mörda Salomos fiender.
 - Salomo söker Gud i bön -> blir mycket vis och rik
 - Salomo bygger templet, och ber om att Gud ska bo där
-Så fort han byggt klart templet börjar han göra dåliga val och gifter sig med kvinnor från andra folk, och tar med sig deras Gudar. Han blir rik, och har slavar till sina byggprojekt. Han följer inte riktlinjerna i 5 Mos 17:17-17.
-1 Kung 10:26-28
+  Så fort han byggt klart templet börjar han göra dåliga val och gifter sig med kvinnor från andra folk, och tar med sig deras Gudar. Han blir rik, och har slavar till sina byggprojekt. Han följer inte riktlinjerna i 5 Mos 17:17-17.
+  1 Kung 10:26-28
 
 ## 1 Kung 12-16 Rikets delning
 
-Salomos son Rehabeam blir kung i Sydriket och agerar som sin far och Nordriket gör uppror och separerar från sydriket. 
+Salomos son Rehabeam blir kung i Sydriket och agerar som sin far och Nordriket gör uppror och separerar från sydriket.
 Jerobeam blir kung i Nordriket som kommer ha Samarien som huvudstad. Han bygger två tempel för att överträffa templet i Jerusalem. I varje tempel finns en guldkalv.
 "för Davids skull" finns det hopp för Juda
 
@@ -661,3 +661,156 @@ Det som talar för att Ester är en historisk text, och bara inte en allmänn be
 ## Ester 9 - Purim
 
 ## Ester 10 - Mordekais makt
+
+# Poesi
+
+Job, Psaltaren, Ords, Pred, HV.
+
+Innehållet är inte berättelser eller händelser i Israels historia utan är undervisning och förmedling av vishet och lovsång/böner
+
+Skiljer sig i form och språko och är i huvudsak poesi och inte prosa
+
+Men bygger på samma teologin med en Gud som är mottagare av böner och klagoropen. Litteraturen hanterar om samma ämnen som Torah, men gör det från ett individuellt perspektiv med mer nyanserad teologi. Litteraturen ger röst åt individens perspektiv och känslor.
+
+Den poetiska formen uppmuntrar till eftertanke och begrundan. Psaltaren har en särställning som NTs mest citerade bok.
+
+Vishetslitteraturen är en del av de poetiska böckerna. Ordet "vishet" är ett bredare begrepp i hebreiskt språkbruk än i svenska. Det kan relatera till ren hantverksskicklighet men också till andlig kunskap. Det är både praktisk och filosofisk kunskap. Det är livskunskap med nycklarna för att leva ett gott liv i ordets bredaste bemärkelse. Vishetslitteraturen är erfarenhetsbaserat lärande med observationer i livet och konsekvenser av mänskligt beteende. Vishetslitteraturen fokuserar "mer på vardagslivet än historien, mer på individen än nationen och mer på den personliga erfarenheten än πå den heliga traditionen.
+
+Job, Ordspråksboken och Predikaren tillhör särskilt vishetslitteraturen och i alla tre böckerna används begreppet "vishet" frekvent men också "förståelse", "intellekt", "dårskap". Några psalmer som 1 och 19 är också vishetslitteratur och även två apokryfiska böcker: Jesu Syraks Vishet och Salomos Vishet. Ibland betraktas Höga Visan som vishetslitteratur.
+
+Vishetstraditionen i Israel kan ha två olika ursprung. Den första teorin är att man har påverkats av utländska traditioner. Det finns likheter med epyptisk och mesopotamisk vishetslitteratur, den litteraturen är äldre än den Israelitiska. Hoven hade täta förbindelser under monarkins tid, särskilt under Salomoms tid. Salomo utvecklar Israel som nation och de impulserna kom enligt denna skolan från just utländska kulturer. Oavsett så är det sannolikt att Israel påverkades av sina grannar.
+
+Det finns också en inhemsk utveckling, att Salomo förknippas med vishet {{< bible "1 Kung" 4 32 34 >}} kan inte vara taget ur luften.
+
+Vishetsförmedlingen skedde vid hovet. {{< bible "Jer" 18 18 >}} ger intryck att "den vise" var en etablerad roll vid hovet. Det skedde också i hemmet och då berörde visheten vardagen i hemmet. Det berör lantbruks- och yrkeslivet. Mödrar nämns även på nångra ställen i lärarrollen. Den tredje platsen för förmedlingen var i skolor. Vi vet inte mycket om skolor i Israel, men vi vet att det fanns lärare och att de hade "skolor" där det bedrevs undervisning. Fader-son kan förstås bildligt som lärare-elev.
+
+Det finns två typer av vishetslitteratur.
+
+Den första är ordspråksvishet som är praktiskt, vardaglig, konkret, tillämpbar och allmängiltig. Den ger riktlinjer för ett rättfärdigt liv och rad för hur man ska få ett gott liv.
+
+Den andra är reflekterande vishetslitteratur som finns i Job och Predikaren. Denna kategori är mer resonerande, reflekterande och diskuterande. Den brottas med de stora livsfrågorna och utmanar till fortsatt tänkande. Hanterar diskrepansen hur livet borde vara, eller hur jag vill ha det, och hur det faktiskt är.
+
+Tre utmärkande drag för vishetslitteraturen i GT är:
+
+1. Betydelsen av Gudsfruktan. {{< bible "Job" 28 28 >}} {{< bible "Ord" 1 7 >}} {{< bible "Pred" 12 13 14 >}}
+   Både gudsnamnen Elohim och JHVH används i vishetslitteraturen, så det finns en tydlig koppling till resten av GT.
+
+2. Skapelsens betydelse. Det finns inga profeter och Gud talar inte, utan det är mer en uppenbarelse genom skapelsen. Skapelsen bekar både på Guds makt, men också på människans litenhet och svaghet. {{< bible "Ord" 3 19 20 >}} {{< bible "Pred" 3 11 >}} {{< bible "Job" 38 4 >}}.
+
+3. Människans begränsade förmåga att förstå. {{< bible "Ord" 3 5 7>}}
+
+### Poetisk litteratur som genre
+
+Poesi kännetecktas av ett stiliserat språk som ofta skiljer sig från prosan och ett konstlat språk som inte följer de normala reglerna för kommunikation. Poesi kännetecknas av täthet med korta meningar och strofer som uttrycker mycket med få ord. Poesi innehåller få partiklar och konjunktioner. Poesi använder ett rikt bildspråk och inbjuder till långsam läsning. Att läsa poesi är inte enbart en intellektuell övning utan berör som människor.
+
+I hebreisk poesi finns det inget specifikt versmått, men ändå en återkommande rytm. Men den är inte så rigid som faktiska versmått. Hebreisk poesi saknar ofta ljudrim utan använder parallellism som "tankerim" och parallellism har också beskrivits som det stora kännetecknet av poesi (Robert Lowth). Hebreisk poesi representerar tal och ger mänskliga röster en skriftlig förkroppsling.
+
+Tre sorters parallellism:
+
+synonym parallellism: två raders uttrycker samma/liknande saker
+antitetisk parallellism: två raders innehål står emot varandra
+syntetisk parallellism
+
+Refränger, upprepningar, kiasmer, akrostik och bildspråk.
+
+## Ordspråksboken
+
+Innehåller två olika genrer, dels instruktion och sentensvishet. Det finns en stor skillnad mellan de första nio kapitlen och resten av boken. De första nio böckerna innehåller mer långa tal och instruktioner och senare delar av boken är sentensvishet.
+
+Ordspråksboken går att se som en samling av olika samlingar av vishet.
+
+### Tillkomst och komposition
+
+Är en antolog som innehaller en mängd olika texter från olika författare och frånolika distperioder.
+
+Salomo är troligtvis initiativtagare och huvudsaklige medverkande/bidragande. Hiskias män samlade också ihop ordspråk och kanske var redaktörer. {{< bible "Ord" 25 1 >}}. Det finns egyptiska paralleller där samlingens vishetslärare även tagit med material från andra lärare.
+
+Man jämför ofta Ordspråksboken med epyptiern Amenemopes vishetsbok från 1 200 f Kr, t ex {{< bible "Ord" 23 4 >}}. En grupp av ordspråk med nära paralleller i Amenemope förkommer också i Ordspråksboken. Ordspråksboken kopierar inte, utan integrerar och anpassar materialet efter sin egen världsbild. Det är allmängods och inte teologi som kopierats.
+
+Syftet med boken är att ge vägledning och utrusta till ett rättfärdigt liv. Det är religiös undervisning för vardagen, inte för sabbaten. Boken syftar till att forma en god karaktär med goda dygder och undvika laster. Vishet hör ihop med en villighet att tillrättavisas och undervisas. "Järn skärper järn".
+
+Ordspråken är korta och kärnfulla och är lätta att memorera. Ordspråken är flexibla och går att tillämpa i olika sammanhäng. De är också universella och är inte beroende av kultur. Ordspråken är situationsbundna {{< bible "Ord" 26 4 5 >}}, sammanhanget avgör och det kräver en fingertoppskänsla för att avgöra när man ska tillämpa ett ordspråk.
+
+Om ordspråk som lovar välgång beskriver inte det oundvikliga utan normen.
+
+Boken innehåller inte bara etik utan även teologi {{< bible "Ord" 1 7 >}}. Den personifierade Visheten står som representant för Gud själv. "Reglerna för det mänskliga livet har också de sitt ursprung hos Gud och därför är lagen och moralen goda." - LarsOlov Eriksson.
+
+## Job
+
+"Job is deeply moving incredibly complex" - Longman & Dillard
+
+Job den rättfärdige och gudfruktige prövas av Anklagaren och får lida. Job är i dialog med sina vänner om sambanden mellan synd och lidande. Han blir både uppmuntrad och förmanad av dem.
+
+Vilken genrer har boken? Drama, teodicé eller vishetsdebatt?
+
+Det finns likheter i teman med andra främreorientaliska texter, men det finns också skillnader. Främst i teologi men även i sin koherens, poesi, omfattning och karaktärisering.
+
+Man kan också beskriva Job som en historisk fiktion. Det finns en historisk kärna, men utan intentionen av att ha historisk precision. Det är svårt att tänka sig att Job och vänner talade på det poetiska sätt som det är nedskrivet.
+
+Många argumenterar för en sen tillkomst baserat på bokens språk och form som mer liknar det man hittar i senare litteratur. Det finns också armeiska influenser. Men böcker kan revideras vilket kan tyda på en äldre källa eller grundmaterial. Att det finns utvecklade föreställningar om satan och en utvecklad angelologi kan tyda på Job är nedskriven senare i och med att det är först senare som denna teologi utvecklas. Men det är inte jättetunga argument och vi har inte så mycket information att göra antaganden från.
+
+Om man synkront studerar själva berättelsen så beskrivs Job som en person som är ganska lik Abraham. Han är patriark i ett större hushåll där han också fungerar som präst. Detta pekar på att han levde före Sinaiförbundet eftersom det efter det var otänkbart att man själv skulle bära fram offer. Det står också att han levde 140 år efter sin upprättelse vilket är många år. Han var nog inte israelit utan levde i Us vilket låg i Edom.
+
+Två frågor står i centrum för teologin. Varför får en rättfärdig person lida? Relaterar till frågon om sådd och skörd och vedergällningsteologi. Den andra frågan är vem är vis? Vissa forskare talar om olika teologier i boken men det kan också förstås som olika perspektiv på frågorna.
+
+Jobs perspektiv är att han får lida fast han inte har syndat, och därför är Gud orättvis.
+
+Elihu håller med de andra vännerna om att eftersom han drabbas så måste han ha syndat. Men han betonar också att Gud är transcendent och att han inte griper in eller talar till människor. Alla vännerna utgår från en mekanisk och rigid syn på sådd och skörd, men tolkar det baklänges och utgår från skörden. Eftersom Job skördar lidande måste det ha varit en dålig skörd. Men de har inte del av berättarens perspektiv och ser inte att Jobs lidande är ett prövande av hans trofasthet mot Gud.
+
+Guds perspektiv är att Job är människa och därför begränsad i sin insikt. Gud är Skaparen och den ende Vise och han har kontroll. Job behöver omvända och ödmjuka sig.
+
+Så även om det finns olika perspektiv så finns det bara en teologi i boken.
+
+## Predikaren
+
+Predikaren behandlar frågan om meningen med livet och ger en generellt ganska pessimistisk syn. Predikaren på hebreiska betyder "samlaren". För att förstå boken måste man skilja på Predikaren som karaktär och som bok. I engelska så är det olika ord för dem men i svenska så är det samma.
+
+Som genrer går det att beskriva som ett testamente i stil med egyptiska kungliga testamente. Men det är nog mer träffande att beskriva det som en självbiografisk, beskrivande, vishetslitteratur.
+
+Olika tolkningar:
+
+1. Salomos självbiografi och hans omvändelse. Detta är det traditionella synsättet men det finns problem med det. De historiska böckerna antyder inte att Salomo skulle omvänt sig. I Predikaren står det "när jag var kung i Jerusalem", det blir märkligt om Salomo säger det för det fanns aldrig någon tid då han inte var kung. Predikaren beskriver sig själv som visare än alla kungar som regerat i Jerusalem, vilket antyder att det funnits många kungar och inte bara David.
+2. Boken är, en anonym vishetslärares, undervisning. Detta är de flesta bibelforskares uppfattning. Det finns många åsikter om boken är sammansatt av flera redaktörer.
+3. Boken Predikaren är en korrigering av karaktären Predikarens undervisning. Liknande Jobs bok att det finns två olika perspektiv. Så bokens författare både presenterar Predikarens undervisning, men argumenterar också mot den.
+
+Teman är att livet är förgängligt, alltså att: det är meningslöst, irrationellt, obegripligt och temporärt.
+
+Utifrån det kan man dra olika slutsatser. En del forskare menar att detta är ett motsägelsefullt budskap och som går mot andra budskap i Gamla Testamentet. Både en intern och extern motsägelsefullhet i boken. Men det finns paralleller i Job, Psaltaren och Jeremia där Guds rättvisa ifrågasätts.
+
+Ett annat perspektiv är att det är ett begripligt budskap utifrån två olika perspektiv. Delvis utifran livet under solen, utan Gud och ett annat perspektiv utifrån ett liv i Gudsfruktan. Hieronomus skriver när har ger råd för hur man ska läsa böcker: "From the Preacher let her gain the habit of despising the world and it vanities."
+
+Ett tredje perspektiv är att det är ett felaktigt budskap, men en korrekt beskrivning av tillvaron utan Gud (t ex Tremper Longman).
+
+## Höga Visan
+
+Vad är Höga Visan?
+
+En linje är att HV är ett poetiskt drama. Antingen med två karaktärer: Salomo och sulamititiskan, eller med tre karaktärer: Salomo, sulamitiskan och en herde.
+
+En annan linje är att det är en antologi av kärleksdikter. Det finns tydliga paralleller med egyptiska kärleksdikter: syster, rollspel, liknande jämförelser och komplimanger. Egyptiska kärleksdikter är dock monologer medans HV är dialoger. Problemet med denna teorin är att det är svart att avgränsa dikterna och finna struktur.
+
+De flesta forskare betraktar HV som kärleksdikter.
+
+Salomo skulle kunna vara författare {{< bible "HV" 1 1 2 >}} vilket stämmer väl med {{< bible "1 Kung" 4 29 34 >}} och det kulturella sammanhanget. Det som talar mot denna teori är att Salomo benämns mer som objekt och inte som författare. {{< bible "HV" 8 11 12 >}} förlöjligar Salomo. Om det är en antologi talar det mot en författare. Man kan tro att HV är skrivet för Salomo, men att några dikter är skrivna av honom.
+
+Historiskt har boken tolkats allegoriskt så att den handlat om kärleken mellan Gud och hans folk. Denna tolkning dominerade från 100-talet till 1800-talet. Rabbi Aqiba samt Origenes och Hieronymus förde fram denna tolkningen. Om den inte ska förstås allegoriskt, varför har den då kanoniserats?
+
+Från 1800-talet börjar man göra bokstavliga tolkningar att HV handlar om kärleken mellan man och kvinna. Dramateorin är då utspridd. Arkeologiska fynd av egyptiska kärleksdikter har också gett stöd för teorin. Det finns också likheter med sentida arabiska bröllopstraditioner i Syrien där "wasf" är lovprisning av bruden och brudgummens fysiska skönhet. Det har även förekommit kultiska/sakrala och feministiska tolkningar.
+
+Det finns två nivåer av teman. Det finns en primär bokstavlig förståelse; den sinnliga och passionerade kärleken mellan man och kvinna som en viktig del av vår tillvaro. "a frank celebration of the joys of human love and sexuality." (Lucas). HV blir ett upprättande av kärleken efter den negativa beskrivningen som finns efter syndafallet. I HV hittar vi en berättelse som bejakar männsklig kärlek och passion.
+
+Den sekundära allegoriska förståelsen är kärleken mellan Gud och hans folk. Äktenskapet är en vanlgig beskrivning i GT mellan Gud och Israels folk.
+
+## Klagovisorna
+
+En reaktion på Jerusalems förstörelse 587 f Kr vilket sätter ord på det enorma fysiska, psykiska och andliga förödelsen. Staden förstördes, människor dog och fördes bort i fångenskap och templet plundrades och brändes ned.
+
+Det finns ingen uppgift i texten om författare, men Jeremia kan ha varit författare då det finns paralleller med hans bok. Boken placeras i ketuvim och inte efter Jeremia som den gör i vår bibel. I Septuaginta placerades boken efter Jeremia. Utifrån den livliga beskrivningen och de uppriktiga känslorna är det sannolikt att boken författats kort efter Jerusalems förstörelse.
+
+Det finns fem sånger i boken och är gemensamma klagosånger och böner. De utrycker klagan efter ett militärt nederlag och det finns likheter med mesopotamisk klagan, t ex statsklagan kort efter riket Ur III (2004 f Kr).
+
+Det finns en kännetecknande rytm i det att första raden är längre än den andra (haltande rytm). Nationen representeras av en övergiven kvinna/änka och en förföljd man.
+
+De fem sångerna motsvaras av kapitelindelningen. De har en alfabetiskt struktur och fyra av dem är akroistiska. Den sista versen har 22 verser. Det finns en emotionell struktur med klimax i mitten av tredje kapitlet där ett tydligt hopp uttrycks {{< bible "Klag" 3 22 33 >}}.
+
+Syftet med boken var att bearbeta det gemensamma lidandet och att brottas med Gud. Är det som hänt rättvist? Syftet verkar också vara att visa på att folket måste inse att detta är Guds straff över Jerusalem. Gud ligger bakom katastrofen men det är p g a Israels avfall {{< bible "5 Mos" 28 1 >}}. Syftet är också att väcka omvändelse och bön. Till sist är det att påminna om Guds trofasthet och barmhärtighet.

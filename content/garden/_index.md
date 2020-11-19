@@ -11,3 +11,5 @@ I intend to write here about subjects which interest me. Hopefully this garden w
     [Gamla testamentet](/garden/teologi/gamla-testamentet/)
 
 [Technology](/garden/technology/)
+
+[The Post-Scarcity Collective](/garden/post-scarcity/)

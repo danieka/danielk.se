@@ -22,6 +22,8 @@ Under upplysningen började man särskilja bibeltolkning från kyrkans dogmer. B
 
 Postmodernism kommer in som en reaktion mot det moderna paradigmet. Sen 1980-talet finns det en mängd olika perspektiv och metoder inom bibelvetenskapen.
 
+# Exegetiska metoder
+
 Diakrona metoder (textens tillkomstprocess). Hur texten har kommit till, förändrats och utvecklas. Relaterar ofta till historisk-kritiska metoden.  
 Synkrona metoder (den föreliggande texten). Fokuserar på texten som den föreligger nu. Studerar texten och dess struktur.
 
@@ -109,11 +111,29 @@ Bygger på en optimism om att forskare som lever idag ska kunna rekonstruera hur
 
 Alla böcker har, även historiska böcker, har en narrativ form. Motsägningar och upprepningar kan uppfattas som meningsfulla motiv i berättelser. Kritiken här är att denna metoden överskattar författarnas litterära verksamhet.
 
+# Exegetiska nycklar
+
+## Nycklar för god exegetik
+
+### Förstå författarens avsedda budskap
+
+Textens författare är en individ, som har skrivit texten med en avsedd publik till vilken han haft ett specifikt budskap. Innan vi kan förstå vad texten säger till oss idag så måste vi förstå vad författaren ville säga med texten när han skrev den. För oss idag kan texten ha fått en bredare och större innebörd än författaren själv förstod när han skrev den, men vår förståelse kan inte gå emot författarens avsikt med texten. Med det sagt så vet ofta inte författaren själv textens hela innebörd. Hela Bibeln är utandad av Gud och det finns innebörder, framförallt i Gamla Testamentet, som författaren själv omöjligt kan ha förstått. Det betyder inte att vi inte kan lita på författaren. Gud själv garanterar hela Bibelns innehåll.
+
+För att förstå textens ursprungliga budskap måste vi resa tillbaka i tiden och läsa texten som dess första mottagare gjorde. Efter att vi läst texten så kan vi resa tillbaka och läsa texten som oss själva, och hitta budskapet för oss, vår församling och vår tid. När vi läser Bibeln tar vi alltid med oss våra egna tanker, perspektiv och fördomar. Men istället för att tillämpa dem på Bibeln, och hitta en läsning som passar oss, så måste vi tillämpa Bibeln på våra förutfattade meningar.
+
+### Läs texten i kontext
+
+Snäv och vidare kontext. Ord i olika bibelböcker går inte att koppla ihop hur som helst.
+
+### Identifiera textens genre
+
+Textens, och bokens genre kan vara olika. Texten kan också innehålla flera olika genrer.
+
 ## Tre metaforer för Gud i Bibeln
 
-Dessa tre metaforer kan användas som nycklar för att besvara frågan om Gud i NT är samma Gud som i GT. Se Making Sense of the Old Testament (Longman), sidorna 55-102 för mer information.
+Dessa tre metaforer kan användas som nycklar för att besvara frågan om Gud i NT är samma Gud som i GT. Se Making Sense of the Old Testament (Longman), sidorna 55-102 för mer information. Om Bibelns genomgående tema är Gud så kan dessa tre metaforer få oss att upptäcka olika sidor av Gud i texten vi arbetar med.
 
-### Gud som förbundsskrivande kung
+### Förbundsskrivande kung
 
 Gamla testamentet genomsyras av Guds förbund med Noa, Abraham, Jakob, Moses och David. Människorna agerar som företrädare för Israel. Varje av dessa förbund bygger på det tidigare förbundet. Gud befäster även sina förbund vid flera tillfällen, men då utan att introducera ny materia till förbundet.
 
@@ -125,3 +145,19 @@ Förbundet går att se som ett avtal mellan Gud och sitt folk och strukturen fö
 4. Välsignelser och förbannelser (sanktioner)
 5. Vittnen
 6. Avtalshantering (hur ska avtalet förvaras? ska det läsas upp?)
+
+### Gudomlig krigare
+
+Aldrig kan skillnaden mellan Jesus och Jahve verka så stor som när det kommer till Gud som krigare. Jesus säger "vänd andra kinden till" och Jahve befaller sitt oflk att inta Israel och utrota kananeerna. Men undersöker vi Gud som krigare ser vi att det är samma Gud, men att Jahves heliga krig har ersätts av Jesus krig mot Guds folks andliga fiender.
+
+Det genomgående temat i Gamla Testamentet är att Gud, förutsatt att rätt förutsättningar var uppfyllda, är med sitt folk och strider för dem. Det är inte med vapen makt, utan med Guds hjälp som Israel besegrar sina fiender {{< bible "1 Sam" 17 45 47>}}.
+
+Metaforen går genom fem faser.
+
+#### 1. Gud kämpar mot Israels fysiska fiender
+
+Gud strider för Israel, men inte ovillkorligt. För att Gud ska strida för folket måste de ha följt hans förbund och sökt hans ledning före striden. Man skulle också rena sig före striden.
+
+#### 2. Guds kamp mot Israel
+
+När Israel bryter mot förbundet eller går i strid mot Guds vilja så strider Gud inte längre med Israel utan han låter det onda drabba dem.
