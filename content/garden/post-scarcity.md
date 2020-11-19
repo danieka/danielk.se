@@ -46,7 +46,7 @@ Consider the reverse case where individuals relinquish all private property to t
 
 ## The rules
 
-I know the rules and, after having read this, so do you.
+I know the rules and, after having read this, so will you.
 
 1. Members contribute 80% of their income to the collective. The remaining 20% the members are expected to save since all their needs will be met by the collective.
 2. The collective elects a president and a treasurer to manage day-to-day stuff.
