@@ -847,3 +847,169 @@ I GT finns det kritik mot andra folks profeter som 5 MOs 18:14, Jer 27:9. Det fi
 Extasen var central hos andra folk (1 Kung 18:29, Jer 28:7). I GT förknippas det med Guds Ande (1 Sam 10:10), inte med mänsklig påverkan. Profetia i GT är nära förbundet med Guds Ande (4 Mos 11:25, Neh 9:30, Sak 7:12, Hes 37:9-10).
 
 Profeten var kunde vara en enstöring, och utstött av samhället, men kunde också vara en integrerad del av etablissemanget. Tidigare forskare menar att profeterna var skilda från templet och gudstjänstlivet på grund av den kritiken de förmedlade. Senare forskare tror att så inte var fallet utan att kritiken var mot etiken, inte mot kulten i sig. Just det att profeterna skrevs ner och hålls högt tyder på att det fanns många anhängare till profeterna.
+
+### Från Gud
+
+Profeternas budskap var från Gud och budbärarformeln, "Så säger Herren..." förekommer ofta. Det finns ett nära samband mellan Guds ord och Guds handlingar, (Jer 1:9-10 och Jes 55:10-11). Profeterna påminner om kungliga budbärare (Jes 36:4). Auktoriteten hör samman med avsändaren. Kallelsen bemyndigar profeten.
+
+### Till samtiden
+
+"The prophet, speaking for God, analyzes the current context and announces the consequences of continuing current beheavior." (Stevens)
+
+- Trohet mot Herren, kritik av avgudadyrkan och politiska allianser som bottnar i förbundstrohet
+- Rättfärdighet och rättvisa, kritik av sociala/ekonomiska orättvisor, tex Amos 8:4-6, bottnar i lagen
+- Enhet mellan tillbedjan och livsstil, {{< bible Amos 5 23 24 >}}
+
+Profeten avslöjar samtiden när folket och ledarskapet handlar fel.
+
+### Om framtiden
+
+- Eskatologiska inslag
+- "Herrens dag"
+- Ett centralt tema i profettexterna är den framtida Kungen och det framtida Kungariket.
+- Tidsperspektiven smälter samman. Det finns inte en precision som ger alla detaljer, profeten ser framtiden men utifrån ett begränsat synfält. Det kan finnas en progressiv uppfyllelse av profetior.
+
+### Formkritiska perspektiv
+
+#### Kallelseberättelser (M. Stevens)
+
+1. Medvetenhet om Guds närvaro
+2. Identifiering av personen som Guds profet
+3. Profetens respons (ofta negativ)
+4. Guds bekräftelse vinner över invändningarna
+
+#### Domsorakel
+
+- rapport som visar grunden för anklagelsen och att straffet är rättfärdigt
+- "ve-orakel" - hör samman med dom över hedningarna
+- rättegångstal/disputation - juridisk process mot Gud {{< bible Mika 6 1 2 >}}
+- Ofta varning/möjlighet till omvändelse {{< bible Jer 18 7 8 >}}
+
+#### Frälsningsorakel
+
+- hopp om upprättelse efter dom och fall
+- ingen rapporter, grund eller motivering för räddningen utan det är en gåva av nåd
+- blickar inte bakåt utan framåt. Det är något nytt, men utifrån det gamla, till exempel ett nytt förbund, ny David, nytt tempel, nytt exodus.
+
+#### Symbolhandlingar
+
+{{< bible Hos 1 2 >}} {{< bible Hes 12 2 11 >}} {{< bible Jer 32 6 7 >}}
+
+#### Profetgenrer
+
+Har tre huvudformer:
+
+- rapporter
+- profetiskt tal
+- böner
+
+Profetior förmedlades ofta i poetisk form. Anledningar till det kan vara att ett färgstarkt språk skulle ge dem uppmärksamhet hos folket. Det underlättade också muntlig tradering av profetiorna. Poesins kraftfullhet och expressivitet lämpar den väl för att tala om Gud.
+
+Profetior har oftast inte en kronologi utan istället en tematisk struktur. Först kommer domsorakel följt av frälsningsorakel.
+
+### Tillkomst
+
+Vi vet inte särskilt mycket om böckernas tillkomst. Förkunnelsen var först muntlig och skrev ned i ett senare skede. Profetiorna skrevs ner av profeten själv ({{< bible Jes 8 16 >}}, {{< bible Jes 30 8 >}}), en sekreterare ({{< bible Jer 36 4>}}, {{< bible Jer 36 32>}}), eller av profetens lärjungar.
+
+Flera forskare ser inte profetböckerna som böcker i vår mening, utan som en levande tradition som skrivits ned och bearbetats under lång tid efter profetens död och skulle sakna en enskild författare (Åke Viberg, Gud och det utvalda folket).
+
+Andra menar att det är troligt att profetiorna skrevs ned direkt med tanke på vikten man fäste vid budskapet och dess spridning (McConville).
+
+## Jesaja
+
+Den mest omfattande boken i GT vad gäller teolgiskt omfång. Jesaja hade en stor betydels för den tidiga judedomen. Han var först bland skriftprofeterna och omnäms i Syr 48:17-25. Jesaja finns i många kopior bland Dödahavsrullarna. Jesaja hade också stor betydelse furo kristologi och kerygmat i den tidiga kyrkan.
+
+### Författarskap
+
+#### 1. O6 lika böcker och profeter med två eller tre Jesajor.
+
+- Döderlein (1789) och Eichhorn (1783).
+- kap 40-55 förutsätter ett annat historiskt sammanhang (exilen) än 1-39
+- teologinka skillnader: 1-39 talar om en davidisk jung, 40-55 om "Herrens tjänare"
+- skillnader i språk och stil, t ex trösta och vakna samt ordlekar som inte finns i andra delen
+- "Jesaja" nämns inte i kap 40-66
+- många forskare menar även att kap 56-66 har en särprägel
+
+- kap 1-39 - Jesaja (700-talet)
+- kap 40-55 - Deuterojesaja (i exilen)
+- kap 56-66 - Tritojesaja (efter exilen)
+
+#### 2. En bok med en profet
+
+- Jesaja, som lever på 700-talet, är upphovsman till hela boken
+- rådande hållning fram till 1800-talet
+  1. tematisk och vokabulär enhetlig i hela Jesaja bok (Israels helige, och specifik formulering istället för budbärarformeln) (Wargalioth, Motyer)
+  2. senare profeter som Jeremia, Sefanja och Nahum uttrycker liknande tankegångar som de som finns i kap 40-66.
+  3. En bok/profet i tidig judisk och kristen tradition (Syr 48:22-25, Joh 12:41, Apg 8:28)
+  4. Jes 1:1 är en överskrift till hela boken, och att 40-66 skulle vara anonyma är osannolikt
+
+#### 3. En bok - redigerad av Jesajas lärjungar
+
+- vanligaste synsättet - man tillskriver kap 40-66 Jesajas lärjungar eller "skola" (Jes 18:16-18)
+- 40-66 har aldrig varit en självständig del, utan växt fram genom en komplicerad, redaktionell process utifran 1-39 - därför finns det enhetlighet mellan de olika delarna
+- lärjungarna bevarade Jesajas minne och tillämpade hans pespektiv/profetior på senare tillfällen/infogade nya profetior
+- "Sådana bearbetningar och redationker av profetisk text bör ses som en aktualisering, inte som en förvrängning, av det ursprungliga profetiska budskapet."
+
+### Historiskt sammanhang
+
+- Jesaja var verksam under andra hälften av 700-talet och början av 600-talen f Kr samtidigt som de judiska kungarna Ussia, Jotam, Ahas, Hisika och möjligtvis även Manasse.
+- tiden präglades av politiska hot, när Tiglat-Pileser III (regerade 745-732) blir kung i Assyrien så expanderar riket vilket leder till syrisk-efraimitiska kriget. Israel och syrien anfaller Juda. Ahas söker då hjälp från Assyrien i det kriget. Juda blir en vassalstat under Assyrien.
+- andligt/moraliskt förfall - Ahas dyrkar avgudar och offrar sin son till Molok (2 Kung 16:3)
+
+Påstådda senare delen av Jesajaboken:
+
+- under 600-talet försvagas assyrierna och Babylon tar över - 587 erövrar man Jerusalem
+- under mitten av 500-talet utmanan Kyros babyloniska riket - 539 tar han över makten och bortförda folk får då flytta hem
+
+### Struktur
+
+1-12 Dom och upprättelse över Israel/Jerusalem  
+13-35 Dom över främmande nationer  
+36-39 Hiskias politik/övergång från krisen under assyrierna till exiltid och senare tider
+40-66 Framtida välsignelser för Guds folk
+
+Geografisk struktur: Börjar och slutar med Jerusalem/Guds berg/tempel som hela världens centrum (2:1-3, 66:1-20), i mitten av boken ligger staden öde/i ruiner
+
+### Teologi
+
+Jesaja har benämnts som GT:s teolog. Det finns ett par viktiga teologiska huvudtankar
+
+1. Guds helighet
+
+- "Israels helige" som ett namn på Herren förekommer ofta
+- profetens kallelse (kap 6) är en nyckel till bokens budskap: Guds helighet och dess konsekvenser; Guds transcendens och suveränitet; domen som den nödvändiga konsekvensen av synden; frälsning av syndaren genom rening och försoning.
+
+2. Guds frälsning
+
+- "Jesaja" betyder "Herren ska rädda" eller "Herren är frälsning"
+- centralt i kap 40-55
+- Herren är den ende som kan rädda och frälsa
+
+  - till skillnad från kungar och andra gudar {{< bible Jes 43 11 12 >}}
+  - relaterar till Gud som Skaparen
+  - relaterar till Guds rättfärdighet {{< bible Jes 56 2 >}}
+  - relaterat till "Guds arm" (52:9-10, 53:1)
+  - relaterar till "Herrents tjänare" (49:6)
+
+- Vidgad omfattning av frälsningen
+
+  - nytt exodus, där tidigare exodus är ett mönster för Guds kommande frälsning {{< bible Jes 43 18 19 >}}
+  - inte bara Israel, utan även hednafolken {{< bible Jes 45 22 >}}, {{< bible Jes 49 6 >}}
+  - inte bara temporär räddning i det historika skeendet, utan evig räddning {{< bible Jes 51 6 >}}
+  - dubbelt perspektiv på Jerusalem - återupprättad stad för judarna och centrum för alla jordens folk. Det återupprättade Jerusalem och den framtida stad som förkroppsligar Guds rättfärdighet kan inte skiljas från varandra.
+
+- Kvarlevan
+
+  - en grupp som överlever en katastrof/Guds dom som blir kärnan för Guds folks fortsättning
+  - förklarar spänningen mellan Guds helighet och Gud som frälsare
+
+- Guds majestät/kunglighet/suveränitet
+
+  - kontrast mellan Herren och politiska storkungar med sikte på att övertyga om att Gud styr över mänsklig historia.
+  - kontrast mellan Herren och andra gudar
+
+- Det messianska hoppet
+  - tre olika bilder för messias (Motyer)
+    1. Kungen, profetior om ett upprättande av Davids dynasti utifrån "Davidsteologin". {{< bible "2 Sam" 7 1 14 >}}. {{< bible Jes 9 1 7 >}} {{< bible Jes 11 1 10 >}}
+    2. Tjänaren med fyra tjänarsånger: {{< bible Jes 42 1 4 >}}, {{< bible Jes 49 1 6 >}}, {{< bible Jes 50 4 9 >}}, Jes 52:13 - 53:12. Tjänarsångerna kan tala både om en individ och ett kollektiv.
+    3. Den smorde erövraren. {{< bible Jes 59 21>}} {{< bible Jes 61 1 3 >}} Jes 61:10-62:7 {{< bible Jes 63 1 6>}}.
