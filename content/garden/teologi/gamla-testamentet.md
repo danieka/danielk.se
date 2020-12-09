@@ -814,3 +814,36 @@ Det finns en kännetecknande rytm i det att första raden är längre än den an
 De fem sångerna motsvaras av kapitelindelningen. De har en alfabetiskt struktur och fyra av dem är akroistiska. Den sista versen har 22 verser. Det finns en emotionell struktur med klimax i mitten av tredje kapitlet där ett tydligt hopp uttrycks {{< bible "Klag" 3 22 33 >}}.
 
 Syftet med boken var att bearbeta det gemensamma lidandet och att brottas med Gud. Är det som hänt rättvist? Syftet verkar också vara att visa på att folket måste inse att detta är Guds straff över Jerusalem. Gud ligger bakom katastrofen men det är p g a Israels avfall {{< bible "5 Mos" 28 1 >}}. Syftet är också att väcka omvändelse och bön. Till sist är det att påminna om Guds trofasthet och barmhärtighet.
+
+# Profeterna
+
+hebr. nabi - talare, taleperson (kan ev betyda "en som har kallats")  
+grek. prophetes - pro - före, tala - "phe". Först rumsligt sedan temporalt.
+
+Gamla testamentets profeter var lika mycket sanningstalare i en specifik socio-historisk kontekt som de förutsade framtiden.
+
+I judisk tradition finns det tidiga, ibland kallade skriftlösa, och senare profeter. De tidiga är de som inte har egna profetböcker utan står omskrivna i Josua, Domarboken, Samuels- och Kungaböckerna. De senare profterna sträcker sig från Amos på 700-talet till Malaki på 400-talet.
+
+Abraham är den förste som kallas profet, i koppling till hans förbönstjänst. Mose är en prototyp för profeter, samtidigt som han har en roll som laggivare som tidigare profeter inte har. Mirjam benämns som profetissa. Andra kvinnliga profeter är Deborah, Hulda och Jesajas fru.
+
+Med Samuel så får profettjänsten en högre ställning. Han har dubbla roller som domare och profet. Profeter kallades också för siare.
+
+Natan är hovprofet under Davids tid, och det nya är att profeten är tydligt kopplad till hovet vilket är vanligt under det delade rikets tid.
+
+Med Elia får det profetiska orden en särställning genom Elias tjänst som teolog.
+
+Under 700-talet framträder skriftprofeter och det blir under 600-talet ett etablerat "ämbete".
+
+Sanna och falska profeter:
+
+1. Ordet går i uppfyllelse, 5 Mos 18:20-22, Jer 28:2-9
+2. Trohet mot Herren (god teologi). 5 Mos 13:1-5
+3. God karaktär, mika 3:9-12, jer 6:13-14
+
+Profeter är inget unikt för Israel utan finns andra religioner i främre orienten. T ex Mari (1700-talet) och Assyrien (700-600 talet). Oraklet i Delfi är känt från början av 1000-talet f Kr. Filistéerna fråga spåmän innan de skulle ta viktiga beslut. Det som skiljer ut Israel är att profeters förkunnelse skrevs ner och att man var mån att bevara budskapet. Israels profeter har en betoring på skuld, straff, omvändelse och frälsning, i övriga kulturer pratade profeter mer om kult och politik.
+
+I GT finns det kritik mot andra folks profeter som 5 MOs 18:14, Jer 27:9. Det finns en tvetydig inställning till drömmar i GT (Josef och Jer 23:25-29). Det talas oftare om visioner i GT.
+
+Extasen var central hos andra folk (1 Kung 18:29, Jer 28:7). I GT förknippas det med Guds Ande (1 Sam 10:10), inte med mänsklig påverkan. Profetia i GT är nära förbundet med Guds Ande (4 Mos 11:25, Neh 9:30, Sak 7:12, Hes 37:9-10).
+
+Profeten var kunde vara en enstöring, och utstött av samhället, men kunde också vara en integrerad del av etablissemanget. Tidigare forskare menar att profeterna var skilda från templet och gudstjänstlivet på grund av den kritiken de förmedlade. Senare forskare tror att så inte var fallet utan att kritiken var mot etiken, inte mot kulten i sig. Just det att profeterna skrevs ner och hålls högt tyder på att det fanns många anhängare till profeterna.

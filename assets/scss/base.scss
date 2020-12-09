@@ -3,9 +3,14 @@
 //$ff: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
 $ff: Garamond, Baskerville, "Baskerville Old Face", "Hoefler Text", "Times New Roman", serif;
 
+html {
+    background: #fffefa;
+}
+
 body {
     text-rendering: optimizeLegibility;
     font-family: $ff;
+
 
     @media (max-width: 800px) {
         font-size: 0.7em;
@@ -13,7 +18,7 @@ body {
     margin: 0;
 }
 
-$black: #111;
+$black: #333;
 
 h1 {
     font-size: 2em;
