@@ -1013,3 +1013,43 @@ Jesaja har benämnts som GT:s teolog. Det finns ett par viktiga teologiska huvud
     1. Kungen, profetior om ett upprättande av Davids dynasti utifrån "Davidsteologin". {{< bible "2 Sam" 7 1 14 >}}. {{< bible Jes 9 1 7 >}} {{< bible Jes 11 1 10 >}}
     2. Tjänaren med fyra tjänarsånger: {{< bible Jes 42 1 4 >}}, {{< bible Jes 49 1 6 >}}, {{< bible Jes 50 4 9 >}}, Jes 52:13 - 53:12. Tjänarsångerna kan tala både om en individ och ett kollektiv.
     3. Den smorde erövraren. {{< bible Jes 59 21>}} {{< bible Jes 61 1 3 >}} Jes 61:10-62:7 {{< bible Jes 63 1 6>}}.
+
+## Jeremia
+
+MT skiljer sig från LXX genom attvara 15% längre. Skillnaden utgörs mest av kompletterande fraser, utvecklingar och två kortare avsnitt {{< bible Jer 33 14 26 >}}, {{< bible Jer 51 44 49 >}}. Bland dödahavsrullarna har båda dessa texttraditioner påträffats. Det kan ha funnits en upplaga i Babylonien som gett upphov till MT och en upplaga i Alexandria som gett upphov till LXX.
+
+Duhm och Mowinckel menar att de poetiska delarna kommer från Jeremia själv, men talen på prosa har likheter med deuteronomistisk teologi och stil och därför har slutredigerats av dessa teologir i efterexilisk tid.
+
+Andra forskare menar att Jeremia själv hade nära samband med dessa deuteronomistiska teologer.
+
+Ett motargument är att om Jeremia är redigerat av en deuteronomistisk teolog, varför hyllas då inte Josia och hans reformer mer? Likheter med Hoseas bok tyder på att orden i Jeremia kommer från en profet som levde under Judas sista dagar. Baruk kan ha skrivit några av de biografiska avsnitten. Någon form av redaktion har troligtvis ägt rum av Jeremia eller någon annan.
+
+Till skillnad från många andra profetiska böcker finns det detaljerade självbiografiska avsnitt. Det finns också en stark kallelsemedvetande {{< bible Jer 20 9>}} och {{< bible Jer 23 9 >}}.
+
+Jeremia benämns som "den gråtande profeten" och hans profettjänst orsakade stort lidande för honom. Det finns paralleller med Mose där Jeremia är tveksam till att följa sin kallelse och har invändningar. Precis som Mose så har Jeremia en medlarroll mellan folket och Gud. Det finns en likhet i kallelse berättelsen med hur Mose kallas {{< bible Jer 1 9 >}} {{< bible "5 Mos" 18 18 >}}.
+
+Det finns ingen kronologisk ordning, utan strukturer går i cykler istället.
+
+1 - 25 Domsord över Jerusalem och Juda  
+26 - 45 Biografiska skildringar  
+ 30 - 33 Trösteboken  
+45 - 51 Domsord över folken  
+52 Avslutande historisk skildring
+
+Det finns många paralleller mellan Jeremia och Jesus. Man la märke till likheter med Jeremia {{< bible Matt 16 13 14 >}}. Båda lider och gråter, avgörande konfrontationer i templet med de religösa ledarna. Båda förutsäger Jerusalems fall. Jeremia jämför sig själv med ett lamm på väg till slakt {{< bible Jer 11 19 >}}.
+
+### Historiskt sammanhang
+
+Jeremia verkade ca 627 - 587 f Kr i Jerusalem under Josia och hans söner Jojakim, Jojakin och Sidka vilket var Judas sista kungar. Han verkar en kort period i Egypten efter Jerusalems förstörelse. Jeremia växte upp i Anatot, nära Jerusalem, under en turbulent tid. Juda gick mellan självständighet till lydnad mot Egypten och Babylon. 605 besegrade Babylonierna egypterna i slaget vid Karkemish och blev då den regionala supermakten. Josia och hans söner söker oberoende för Juda men tvingas ändå ge efter för stormakterna och under Sidkias styre faller Jerusalem.
+
+Det var också en omvälvande tid på ett religiöst plan där Manasse var dålig och öppnade för dyrkan av assyriska gudar, sen reformerade Josia när man hittade rullen i templet, men dyrkan av andra gudar får ändå fortsätta.
+
+### Teologiska huvudtankar
+
+- Guds suveränitet {{< bible Jer 1 4 10 >}}. Jeremias orakel mot främmande folk är ett tecken på att Jeremia är övertygad av Guds suveränitet.
+- Jesaja går emot "Sionsteologi" att Gud beskyddar Jerusalem, Guds stad, på grund av att Gud bor i templet. {{< bible Jer 7 3 11 >}}.
+- Förbundstrohet {{< bible Jer 2 2 >}} {{< bible Jer 3 1 2 >}}. På grund av att folket bryter mot förbundet så har landet som skulle bära rikt frukt har istället blivit kargt och kalt.
+- Omvändelse. Jeremia är den profet som talat mest om omvändelse och uppmuntrar till förändrade levnadssätt {{< bible Jer 18 11 >}}.
+- Missionell aspekt {{< bible Jer 4 1 2 >}}
+- Det nya förbundet {{< bible Jer 31 31 34 >}}. Israel problem är inte bara yttre handlingar utan den mänskliga naturen, deras stenhjärtan. I det nya förbundet får de nya hjärtan, med en ny laguppfyllelse {{< bible Jer 4 4 >}} {{< bible "5 Mos" 30 6 >}}. Med det nya förbundet ska Israel få en ny och närmare relation med Gud. Det nya börbundet bygger på förlåtelse. Förlåtelsen är inte en konsekvens av det nya förbundet, det är grunden för det nya förbundet.
+- Guds ord. Begreppet ord förekommer fler gånger i Jeremia än i andra böcker i GT. Gud lägger sina ord i Jeremias mun, och den centrala anklagelsen är att folket inte har lyssnat på Herrens Ord. Jeremias ord är inte Jeremias ord, utan Guds Ord som han förmedlar {{< bible Jer 51 64>}}.
