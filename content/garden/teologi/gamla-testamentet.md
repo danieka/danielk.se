@@ -1053,3 +1053,29 @@ Det var också en omvälvande tid på ett religiöst plan där Manasse var dåli
 - Missionell aspekt {{< bible Jer 4 1 2 >}}
 - Det nya förbundet {{< bible Jer 31 31 34 >}}. Israel problem är inte bara yttre handlingar utan den mänskliga naturen, deras stenhjärtan. I det nya förbundet får de nya hjärtan, med en ny laguppfyllelse {{< bible Jer 4 4 >}} {{< bible "5 Mos" 30 6 >}}. Med det nya förbundet ska Israel få en ny och närmare relation med Gud. Det nya börbundet bygger på förlåtelse. Förlåtelsen är inte en konsekvens av det nya förbundet, det är grunden för det nya förbundet.
 - Guds ord. Begreppet ord förekommer fler gånger i Jeremia än i andra böcker i GT. Gud lägger sina ord i Jeremias mun, och den centrala anklagelsen är att folket inte har lyssnat på Herrens Ord. Jeremias ord är inte Jeremias ord, utan Guds Ord som han förmedlar {{< bible Jer 51 64>}}.
+
+## Hesekiel
+
+Hesekiel beskrivs som judendomens fader därför att han bär kontinuitet med Israels historia genom Jerusalems fall och exilen. Hesekiel är aktiv runt 597 - 570 f Kr. Han kände till Jeremia och han kände till Josias reformation. Hesekiel kände också till helighetslagarna. Hesekiel var troligen en prästson. Att Hesekiel känner till helighetslagarna, och måste läsas med dem, skulle vara ett argument mot DH där lagarna nedtecknades under exilen.
+
+Det finns skillnader mellan MT och LXX, men MT verkar vara den trovärdigaste översättningen. Det verkar som att LXX inte riktigt förstått den hebreiska Hesekiel. Hesekiel är troligtvis skriven av en författare.
+
+Hesekiel genomför fyra symboliska handlingar som beskriver Jerusalems belägring och fall {{< bible Hes 4 4 7 >}} {{< bible "3 Mos" 16 22 >}}.
+
+### Struktur
+
+1 - 24 Domsorakel
+25 - 48 Frälsningsförkunnelse
+
+## Daniel
+
+Dateras av många forskare till 160 f Kr eftersom Daniel förutsäger profaniseringen av templet som sker under Macabéertiden. Traditionen säger att Daniel är nedskriver på 500-talet f Kr. Dateringen hänger helt på om man tror att profetior kan förutsäga framtiden. Daniel har kunskap om Babyloniens hov och seder vilket tyder på att boken är samtida med den. Daniel innehåller apokalyptiska avsnitt. Kapitel 2-7 är skriva på arameiska.
+
+### Struktur
+
+1 - 7 historisk berättelse
+8 - 12 apokalyptik
+
+### Teologi
+
+- Människosonen {{< bible Dan 7 13 14 >}} tas upp av Jesus {{< bible Mark 14 62 >}}.

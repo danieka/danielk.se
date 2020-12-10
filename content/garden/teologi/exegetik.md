@@ -161,3 +161,9 @@ Gud strider för Israel, men inte ovillkorligt. För att Gud ska strida för fol
 #### 2. Guds kamp mot Israel
 
 När Israel bryter mot förbundet eller går i strid mot Guds vilja så strider Gud inte längre med Israel utan han låter det onda drabba dem.
+
+# Hermeneutik - tolkningsteori
+
+Hans Georg Gadamer, olika horisonter, författarens, läsarens. Läsarens förståelsehorisont begränsar vårt synfält, men det finns också möjligheter utifrån våra förkunskaper.
+
+Anthony Thieselton, en god hermeneutik är ett engagerat möte mellan läsaren och texten så att läsarens horisont vidgas och omformas. För att förena tolkarens och Bibelns perspektiv är det något som heter (om)läsning som består av två delar: exegetik och forskning samt bön och meditation. Det första steget i att komma till Bibelns perspektiv är att börja i vårt eget perspektiv och se oss själva som en del i processen. Vad är mina intressen, fördomar och förutfattade meningar? Vi kommer till Bibeln i tro att Bibeln är Guds uppenbarelse, men utan förutfattade meningar om dess teologi. Vi behöver läsa Bibeln både som helig skrift och som litteratur och historia. Inte bara ett fokus på historiks och litterär information utan de existentiella nyckelfrågorna. Vad står på spel i texten?
