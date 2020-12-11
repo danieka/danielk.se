@@ -1079,3 +1079,137 @@ Dateras av många forskare till 160 f Kr eftersom Daniel förutsäger profaniser
 ### Teologi
 
 - Människosonen {{< bible Dan 7 13 14 >}} tas upp av Jesus {{< bible Mark 14 62 >}}.
+
+# Tolvprofetboken - de små profeterna
+
+Jesu Syraks vishets nämner "de tolv profeternas" ben vilket visar att på 200-talet så var det etablerat att dessa tolv hörde ihop. Josefus refererar till dem som en bok. Det finns också samband mellan en böckerna, gemensamma fraser t ex "Herrens dag" som finns i alla profeter utom Jona. Dom och frälsning förkunnas i alla profeterna.
+
+## Struktur
+
+De sex första betonar synden och utspelar sig på 700-talet eller är svårdaterad. Nästa tre talar mycket om straff och utspelar sig på 600-talet. De tre sista talar mycket om hopp och upprättelse och utspelar sig efter exilen.
+
+- Hosea
+- Joel
+- Amos
+
+- Obadja
+- Jona
+- Mika
+
+- Nahum
+- Habackuk
+- Sefanja
+
+- Haggai
+- Sakarja
+- Malaki
+
+## Hosea
+
+En allvarlig bok, med svår grundtext. Boken utspelar sig på 700-talet i Nordriket. Boken nämner knappt Juda, vilket är unikt för småprofeterna. Vid denna tiden dyrkas Baal och andra kananeeiska gudar.
+
+### Struktur
+
+- 1-3 Hoseas äktenskap med den prostituerad Gomer, som är otrogen mot honom
+- 4-11 Synd och straff, Israel dyrkar andra gudar och därför ska domen komma
+- 12-14 Synd och hopp, 12-13 mer om att folket har syndat, kapitel 14 handlar om hur Guds frälsning kommer med en inbjudan till omvändelse
+
+### Teman
+
+- Inga andra gudar
+- Guds hesed och folkets trolöshet
+- Spänning mellan dom och kärlek
+
+## Joel
+
+Joel verkar i sydriket, som de flesta småprofeter. Boken är svårdaterad, den enda som kan se är att templet är aktivt, så det är före eller efter exilen. Språket är liturgiskt och han är kunnig, kanske är Joel en levit. Innehållet är att Jerusalem ödeläggs men kommer att räddas.
+
+### Struktur
+
+- 1-2:17 Klagan över en stor ödeläggelse orsakad av gräshoppor. Gräshoppor kan vara en metafor för arméern. Den domen som kommer är "Herrens dag". Det kommer en uppmaning om omvändelse och att man ska riva sönder sina hjärtan, i kontrast till att riva sönder sina kläder.
+- 2:18 - Omvända profetior mot domen i första delen. Folkets fiender ska straffas och istället förödeläggelse ska det bli överflöd i landet. Relationen med Gud ska återupprättas och Andens utgjutelse kommer.
+
+### Teman
+
+- Gud har makt över hela världen, inklusive naturen
+- Herrens dag, som innebär både dom och frälsning
+- Omvändelse
+- Anden
+
+## Amos
+
+Utspelar sig på 760-talet. Han har ett rakt och enkelt budskap, urtypen för en gammaltestamentlig domsprofet. Den är väldigt välskriven på hebreiska. Han kan ha varit den första av småprofeterna. Han kommer från Sydriket men är verksam i Nordriket. Det går bra i Nordriket då man inte varit i krig på länge. Aoms är från början herde och odlare. Fokuserar mycket ekonomiska och politiska orättvisor. Boken citeras ganska lite i NT. Liknande tema som Joel.
+
+### Struktur
+
+- 1-2 Domsord mot omgivande nationer, Israel och Juda. Innehållet åtta domsprofetior, och den mot Israel är längst.
+- 3-6 Vidareutvecklar domsorden mot Israel, kritiserar Israel för att de inte följer förbundet och för att de är rika på andras bekostnad. De har gjort gudstjänsten till en yttre ritual utan hjärta.
+- 7-9 Fyra syner och Israels återupprättelse
+
+### Struktur
+
+- Rättvisa och rättfärdighet
+- Gud som både allas Gud och särskilt Israels Gud
+- Förbundet
+
+## Obadja
+
+Svårdaterad, skulle kunna vara 500-tal när Babylon ödelägger Jerusalem. Obadja är den kortaste boken i GT. Handlar om dom mot Edom eftersom de inte hjälpte Juda när de plundrades, och till och med hjälpte plundrarna. Avslutas med tröstord till Israel att riket ska tillhöra Herren.
+
+## Jona
+
+Svårdaterad, men är eventuellt omnämnd i {{< bible "2 Kung" 14 25 >}}, om det är Jona utspelar den sig runt 780-talet. Genren för boken är oklar, vad författaren ville uppnå med berättelsen. Innehåller bara ett profetord och Jona kallar sig inte för profet. Forskare är oeniga om den ska uppfattas som en historisk text, eller som en allegori?
+
+Tecken på att texten kan vara allegorisk:
+
+- Inga historiska fakta ges, t ex namnges inte kungen i Nineve.
+- Ingen omvändelse i Nineve nämns i någon annan källa.
+- Jona säger att det skulle ta tre dagar att gå genom staden.
+- Jona räddas av, och blir uppspydd av, en fisk.
+- Märklig planta som växer upp snabbt, och dör snabbt.
+
+### Teman
+
+- Guds allmakt och suveränitet
+- Lovsång
+- Kan Gud ångra sig?
+
+## Mika
+
+Utspelar sig på 700-tal och är samtida som Jesaja och påminner om Amos med rättvisepatos och viktigt med sann gudstjänst. {{< bible Mika 6 8 >}} är en sammanfattning av profetbudskapen på 700-talet. {{< bible Mika 5 2 4 >}} är ett viktigt avsnitt om Betlehem och Messias.
+
+## Nahum
+
+NNN - <u>N</u>ahum handlar om <u>N</u>ineves <u>N</u>egativa öde. Om Guds dom, Nineves fall och motiveringen för det. Den är en tröst för Juda. Utspelar sig på 600-tal.
+
+## Habackuk
+
+Utspelar sig på 600-talet är Habackuk är verksam i Juda. Juda och Babylon ska straffas. Det är en dialog med Gud där Habackuk först klagar på att det finns så många ogudaktiga och hur Gud kan låta det ske, men den rättfärdige ska leva genom sin tron.
+
+## Sefanja
+
+Utspelar sig på 600-tal. Huvudtemat är Herrens dag {{< bible Sef 1 15 16 >}} och framställs som en mörk, domens dag. Domen riktas mot Juda men också mot folken runtomkring och till sist mot hela skapelsen. Men, det ska komma en dag då folken ska tjäna Herren och det ska finnas en kvarleva i Jerusalem som är trogen Herren.
+
+## Haggai
+
+Utspelar sig om tiden efter exilen runt 520 f Kr. Hoppfull bok som handlar om återuppbyggandet av templet. Byggandet har legat nere ett tag när Haggai kommer och ger fyra budskap om förmaning och uppmuntran:
+
+1. Det går dåligt för folket på grund av deras trolöshet, de bryr sig om sina egna hus istället för templet
+2. Herrens Ande är med dem
+3. Löfte om välsignelse
+4. Serubabbel prisas
+
+## Sakarja
+
+Utspelar sig efter exilen, två månader efter Haggai. Är en apokalyptisk bok och det finns många likheter med Uppenbarelseboken. Citeras ofta i NT. {{< bible Sak 9 9 >}}
+
+### Struktur
+
+- 1-8 syner
+- 9-11 Profetord
+- 12-13 En kvarleva
+- 14 Herrens dag
+
+## Malaki
+
+Utspelar sig efter exilen, efter 515 f Kr. Malaki betyder "min budbärare", och vissa ser det som att boken ska ses som anonym. Antika judiska kommentarer tolkar det så. Kronologiskt den sista boken i Gamla Testamentet. Folket har blivit likgiltigt och offren har inte rätt kvalitet, man gav inte tionden, moralen var dålig och folket fruktade inte Gud. Men Herren är ändå kvar och förväntar sig trohet, och Gud ska sända sin budbärare.

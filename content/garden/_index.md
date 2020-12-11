@@ -6,9 +6,11 @@ I intend to write here about subjects which interest me. Hopefully this garden w
 
 ### Subjects
 
-[Teologi](/garden/teologi/)  
-    [Exegetik](/garden/teologi/exegetik/)  
-    [Gamla testamentet](/garden/teologi/gamla-testamentet/)
+[Teologi](/garden/teologi/)
+
+- [Exegetik](/garden/teologi/exegetik/)
+- [Gamla testamentet](/garden/teologi/gamla-testamentet/)
+- [Kanonsyn och apokryferna](/garden/teologi/apokryferna/)
 
 [Technology](/garden/technology/)
 

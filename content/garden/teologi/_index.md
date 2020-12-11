@@ -7,7 +7,8 @@ categories:
 # Teologi
 
 [Exegetik](/garden/teologi/exegetik/)  
-[Gamla testamentet](/garden/teologi/gamla-testamentet/)
+[Gamla testamentet](/garden/teologi/gamla-testamentet/)  
+[Kanonsyn och apokryferna](/garden/teologi/apokryferna/)
 
 > _För vishet ska komma in i ditt hjärta och kunskap bli ljuvlig för din själ, omdöme ska bevara dig och klokhet beskydda dig._  
 > <small>Ordspråksboken 2:10-11</small>
