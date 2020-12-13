@@ -11,6 +11,7 @@ I intend to write here about subjects which interest me. Hopefully this garden w
 - [Exegetik](/garden/teologi/exegetik/)
 - [Gamla testamentet](/garden/teologi/gamla-testamentet/)
 - [Kanonsyn och apokryferna](/garden/teologi/apokryferna/)
+- [Liturgi](/garden/teologi/liturgi/)
 
 [Technology](/garden/technology/)
 

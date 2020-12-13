@@ -5,7 +5,7 @@ date: "2017-09-23"
 categories:
   - "Notes"
 tags: [ "tro" ]
-draft: false
+draft: true
 ---
 
 # Predikantdagar

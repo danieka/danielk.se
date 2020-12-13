@@ -5,6 +5,7 @@ date: "2018-11-06"
 categories:
   - "Notes"
 tags: [ "tro" ]
+draft: true
 ---
 
 # Langham
