@@ -27,6 +27,6 @@ Dylan Thomas uttrycker en helt annan syn på döden i [Do not go gentle into tha
 
 Jag kan vara ganska sentimental och Dylan Thomas rader talar till sentimentalisten i mig. Det finns så mycket gott att leva för: familj och vänner; segling och våfflor med hjortronsylt. Men inte en sekund har man som kristen anledning att frukta döden.
 
-> "Så finns nu ingen fördömelse för dem som är i Kristus Jesus. Livets Andes lag har i Kristus Jesus gjort mig fri från syndens och dödens lag." [Rom 8:1-2] (http://www.folkbibeln.it/?bok=45&vers=8:1#8:1)
+> "Så finns nu ingen fördömelse för dem som är i Kristus Jesus. Livets Andes lag har i Kristus Jesus gjort mig fri från syndens och dödens lag." Rom 8:1-2
 
 Som kristen behöver du inte med skräck i hjärtan kämpa mot döden. Du väntar på att få se soluppgången över det nya Jerusalems gyllene gator. Det är löftet och hoppet som Jesus gav när han dog för dig på korset.
