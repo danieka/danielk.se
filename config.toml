@@ -3,14 +3,13 @@ title = "Daniel Karlsson"
 theme = "daniel"
 baseURL = "https://www.danielk.se/"
 
-[blackfriday]
-angledQuotes = false
-
 [markup]
     [markup.goldmark.renderer]
         unsafe= true
     [markup.tableOfContents]
         startLevel = 1
+    [markup.goldmark.extensions]
+      footnote = true
 
 [author]
     name = "Daniel Karlsson"

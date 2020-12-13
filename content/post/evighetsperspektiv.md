@@ -4,12 +4,9 @@ description: ""
 date: "2017-06-23"
 categories:
   - "Personal"
-tags: [ "tro" ]
+tags: ["tro"]
+summary: Borde du frukta döden och det som kommer efter den? Vad säger Bibeln? Jag jämför två perspektiv, ett med hopp för evigheten och ett utan.
 ---
-
-Borde du frukta döden och det som kommer efter den? Vad säger Bibeln? Jag jämför två perspektiv, ett med hopp för evigheten och ett utan.
-
-<!--more-->
 
 # Två evighetsperspektiv
 
@@ -17,8 +14,7 @@ Borde du frukta döden och det som kommer efter den? Vad säger Bibeln? Jag jäm
 > jag somnar in, o Herre Jesus Krist.  
 > Då viker natten, morgon bräcker klar.  
 > I liv, i död bliv, Herre, hos mig kvar.  
-> <cite>--  Henry Francis Lyte/Oscar Mannström</cite>
-
+> <cite>-- Henry Francis Lyte/Oscar Mannström</cite>
 
 > Do not go gentle into that good night,  
 > Old age should burn and rave at close of day;  
@@ -31,6 +27,6 @@ Dylan Thomas uttrycker en helt annan syn på döden i [Do not go gentle into tha
 
 Jag kan vara ganska sentimental och Dylan Thomas rader talar till sentimentalisten i mig. Det finns så mycket gott att leva för: familj och vänner; segling och våfflor med hjortronsylt. Men inte en sekund har man som kristen anledning att frukta döden.
 
->"Så finns nu ingen fördömelse för dem som är i Kristus Jesus. Livets Andes lag har i Kristus Jesus gjort mig fri från syndens och dödens lag." [Rom 8:1-2] (http://www.folkbibeln.it/?bok=45&vers=8:1#8:1)
+> "Så finns nu ingen fördömelse för dem som är i Kristus Jesus. Livets Andes lag har i Kristus Jesus gjort mig fri från syndens och dödens lag." [Rom 8:1-2] (http://www.folkbibeln.it/?bok=45&vers=8:1#8:1)
 
 Som kristen behöver du inte med skräck i hjärtan kämpa mot döden. Du väntar på att få se soluppgången över det nya Jerusalems gyllene gator. Det är löftet och hoppet som Jesus gav när han dog för dig på korset.

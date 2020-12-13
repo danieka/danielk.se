@@ -5,10 +5,8 @@ date: "2018-03-28"
 draft: false
 categories:
   - "Personal"
+summary: Israel är en fascinerande plats på många nivåer och jag ska göra mitt bästa för att fånga detta.
 ---
-
-Israel är en fascinerande plats på många nivåer och jag ska göra mitt bästa för att fånga detta.
-<!--more-->
 
 # Israel
 
@@ -64,11 +62,12 @@ Magdala belägrades år 64 av tre romerska legion som ville besegra den grupp ju
 {{< figure src="/israel/IMG_0110.jpg">}}
 
 ## Mensa Christi
+
 <iframe src="https://open.spotify.com/embed/track/4CTZGaN7Bw72hQBtHhxjvm" width="100%" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 Vi besökte en plats som pekats ut som platsen där Jesus mötte lärjungarna efter sin uppståndelse och säger åt dem att kasta ut nätet på andra sidan båten [Joh 21](http://www.folkbibeln.it/?book=joh&chapter=21&verse=1). Jag tror inte att det var på just denna platsen som det hände, det verkar inte finnas några bevis för det. Men det vi kan vara säkra på är att det var någonstans i trakten. Vi kan veta att Jesus såg ut över dessa stränder. När lärjungarna satt sig ner för att äta så var det på en strand som denna som de satt. Det tycker jag är väl så coolt.
 
-På ett bord så står det inhugget "Hic Iesus Amoris Primatum Petro Commendat". Det betyder ungefär att här Jesus Petrus påvedömet vilket skulle syfta på att Jesus säger till Petrus 
+På ett bord så står det inhugget "Hic Iesus Amoris Primatum Petro Commendat". Det betyder ungefär att här Jesus Petrus påvedömet vilket skulle syfta på att Jesus säger till Petrus
 "För mina får på bete".
 
 {{< figure src="/israel/IMG_0115.jpg">}}
@@ -94,9 +93,7 @@ Synagonan byggdes upp i början av 1900 av tyska arkeologer. Synagogan som de by
 
 Jag ska se till att skriva lite mer om resten av resan när jag får tid. Skriv upp dig på nyhetbrevet längst ner så skickar jag ett mail när jag gjort det.
 
-
-
-<b id="f1">1</b> You can hide but you can't run. Literally. [↩](/post/israel#a1)  
+<b id="f1">1</b> You can hide but you can't run. Literally. [↩](/post/israel#a1)
 
 <b id="f2">2</b> Det är en riktigt lång bok. [↩](/post/israel#a2)
 

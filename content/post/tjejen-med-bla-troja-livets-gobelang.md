@@ -4,14 +4,11 @@ description: ""
 date: "2017-10-10"
 categories:
   - "Personal"
+summary: Daniel ser samma tjej två gånger på samma dag. Istället för att fatta mod och snacka med henne fastnar han in ett filosofiskt resonemang som är både invecklat, förvirrat och utan poäng.
 ---
 
-<div class="summary">
-<p>Daniel ser samma tjej två gånger på samma dag. Istället för att fatta mod och snacka med henne fastnar han in ett filosofiskt resonemang som är både invecklat, förvirrat och utan poäng.</p>
-</div>
-<!--more-->
-
 # Tjejen med den blå tröjan:
+
 # Livets Gobeläng
 
 > Everyone is necessarily the hero of his own life story.
@@ -21,7 +18,7 @@ _En gobeläng är en handvävd tapet med bilder. Se cool bild nedanför. Den gob
 
 <img src="/tapestry.jpg" style="width:100%">
 
-I söndags efter gudstjänsten satt jag på Café 60 och fikade med Arvid och Filippa vilket var mycket trevligt. Bakom Arvid satt en tjej i blå tröja som jag tyckte var ganska söt - definitivt mer ögontilldragande än Arvid - och det var förmodligen därför jag kom ihåg hennes ansikte. Senare mot kvällen blev jag, som man ofta blir, lite småsugen på en rejäl burgare. Typ en Double Cheese med bacon från Phil's Burger<sup>1</sup>. Sagt och gjort gick jag till Phil's, men när jag ställer mig i kön vem tror ni inte dyker upp bakom mig? Jo, tjejen från Café 60. 
+I söndags efter gudstjänsten satt jag på Café 60 och fikade med Arvid och Filippa vilket var mycket trevligt. Bakom Arvid satt en tjej i blå tröja som jag tyckte var ganska söt - definitivt mer ögontilldragande än Arvid - och det var förmodligen därför jag kom ihåg hennes ansikte. Senare mot kvällen blev jag, som man ofta blir, lite småsugen på en rejäl burgare. Typ en Double Cheese med bacon från Phil's Burger<sup>1</sup>. Sagt och gjort gick jag till Phil's, men när jag ställer mig i kön vem tror ni inte dyker upp bakom mig? Jo, tjejen från Café 60.
 
 ![Chockad min](https://media.giphy.com/media/12BxzBy3K0lsOs/giphy.gif)
 
@@ -38,6 +35,7 @@ Men om jag går omkring och tror att jag är den viktigaste personen i mitt liv,
 Så istället för att se mig själv som huvudkaraktären i det som för tillfället händer i Stockholm ska jag kanske snarare se mig som en tråd i Stockholms stora och magnifika gobeläng av människoliv. Ibland så korsar två trådar, två liv, varandra. Som för mig och tjejen i blå tröjan. Ibland går trådar bredvid varandra länge, och ibland går de ifrån varandra. Men varje tråd är lika viktig och varje tråd, varje människoliv, har ett oändligt djup. Det finns inga statister i livets gobeläng.
 
 ## P.S. till tjejen i blå tröja
+
 Om du läser detta och känslan av att undertecknad är en intressant kille överstiger obehagskänslan av att jag oavsiktligt stalkat dig så får du gärna höra av dig.
 
 <br>
