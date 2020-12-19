@@ -7,7 +7,9 @@ categories:
 summary: En recension av Peter Halldorfs bok Alla himlensfåglar har flytt
 ---
 
-Jag har läst Alla himlens fåglag har flytt som en del av den exegetikkurs jag läser på Missionsakademi. Den här recensionen var en inlämningsuppgift dit. Vi läste bara delar av boken, så om du tycker att min recension är inkomplett så är det anledningen.
+# Recension: Alla himlens fåglar
+
+Jag har läst Alla himlens fåglar har flytt som en del av den exegetikkurs jag läser på Missionsakademi. Den här recensionen var en inlämningsuppgift dit. Vi läste bara delar av boken, så om du tycker att min recension är inkomplett så är det anledningen.
 
 Peter Halldorf är en svensk författare och pastor med rötter i pingströrelsen. Halldorf är en flitig författare och har varit föreståndare för Ekumeniska kommuniteten i Bjärka-Säby.
 
