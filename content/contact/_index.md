@@ -3,12 +3,12 @@ title: "Contact"
 description: "Contact information"
 date: "2017-04-05"
 ---
+
 # Contact
 
 Feel free to email.
 
 <a href="mailto:mail@danielk.se">mail@danielk.se</a>
-  
 
 Public PGP Key
 
@@ -46,3 +46,5 @@ Public PGP Key
     =VcoS
     -----END PGP PUBLIC KEY BLOCK-----
 
+Public SSH key
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDXYXKFTmVgm/4o5tYc03U1xQ6aAwTBcmMJ/agDNyCPoAIfNFjaqFhI0ddqrP7bJN7jq6K3wAWVASVxhNONCSqsRCqpyt+PyUzkma+jkFlTxrlm0ZUaQ+6mkbWlNpHDdpoIek/mldsxq8RJJqe5bUbEE2o4e80wBQXziMFXQfYPBwbAIm9HuWE3PQgiYBwY0rxWwTR4DNwygFuLE2JSMLa/aG15/bKQDTjcwUX3rAetJQxI9X2SNQZmIY0b49Yn9pb1iZcUsR9yaq5wXv8I2J/+k2ErmnOr+JcUqE4uPGyeXtXWLcGWsDecxbRBYYG3bfLr52z00Ew3OhXFNAKQ1ntNdNTVhIorscBnt5F4HvNbfVuwKBSyvUEFAQuCJPkog8idEDdBjKr6HXtvjeray+iE1Ojwz/J3WkjMkJV/p98K3feuYyfwI3JLHl8lf9Oa/oO513hhdtCYmq30ob/fYMKir02tHPwNkKLxYJwC/o6TygP+M7YQOYtQUWLgjh1C8nrwnk4wERqmSa+oCoPOYJHVuL3emX2RCKhLoM3uemMON5dMqtHRasDcLGycox+4GCq+WqMX4HXbR4dKCem+rWEdyyMd68kJMM8VT0Ea1UM8fqJGr7vR2DLkDtAJTTEyNSCebeOynC030fMHzlRbx5MzszPMBRS89T0z/1uYOt6E5w== mail@danielk.se
