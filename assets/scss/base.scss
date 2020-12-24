@@ -7,6 +7,8 @@ html {
     background: #fffefa;
 }
 
+$black: #333;
+
 body {
     text-rendering: optimizeLegibility;
     font-family: $ff;
@@ -16,9 +18,9 @@ body {
         font-size: 0.7em;
     }
     margin: 0;
-}
 
-$black: #333;
+    color: $black;
+}
 
 h1 {
     font-size: 2em;
@@ -159,7 +161,7 @@ cite {
         flex-grow: 1;
         margin: 0.5em;
         letter-spacing: 2px;
-        color: black;
+        color: $black;
 
         &.active {
             font-weight: 600;
@@ -307,6 +309,7 @@ details {
             background: #ebd8f0;
             padding: 1rem 2rem;
             box-shadow: 3px 4px 16px 3px rgba(0, 0, 0, 0.75);
+            border-radius: 5px;
 
             width: 30em;
 

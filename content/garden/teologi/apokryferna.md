@@ -1,6 +1,6 @@
 # Kanonsyn
 
-Protestanter kallar böckerna för apokryfer, vilket betyder dolda, men av katoliker kallas böckerna för deuterokanoniska och menar att de är kanoniska. Det som protestanterna kallas pseudepigrafiska, alltså skrivna i någon annans namn, kallas av katoliker för apokryfer. Ett exempel på det är Henoks bok som varken är kanon hos protestanter eller katoliker.
+Protestanter kallar böckerna för apokryfer, vilket betyder dolda, men av katoliker kallas böckerna för deuterokanoniska och menar att de är kanoniska. Det som protestanterna kallar pseudepigrafiska, alltså skrivna i någon annans namn, kallas av katoliker för apokryfer. Ett exempel på det är Henoks bok som varken är kanon hos protestanter eller katoliker.
 
 Det finns ett antal böcker som blev judisk kanon och kallas Tanak, vi vet inte exakt när det hände men kanske runt 100 år f Kr eller kanske 70-talet e Kr när templet faller. Ett viktigt kriterium för de skriftlärda som sammanställde kanon kan ett viktigt kriterium varit att skrifterna skulle vara på hebreiska. Apokryferna är skrivna på grekiska. Från början var kanon skriven på konsonantskrift, men masoreterna tillförde vokaler vilket blev den masoretiska texten (MT).
 
