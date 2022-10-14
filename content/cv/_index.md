@@ -82,7 +82,7 @@ After I left peerCast I worked for about a year as a consultant. First at Nectim
 
 ## Tech Lead (2020-)
 
-At Flinker I'm leading a frontend team that started out as three members, including me, that grown to five members.
+At Flinker I'm leading a frontend team that started out as three members, including me, that has grown to five members.
 
 One of my biggest tasks hes been to migrate our frontend from PHP + jQuery to Vue.
 
