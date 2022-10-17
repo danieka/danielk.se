@@ -84,7 +84,7 @@ After I left peerCast I worked for about a year as a consultant. First at Nectim
 
 At Flinker I'm leading a frontend team that started out as three members, including me, that has grown to five members.
 
-One of my biggest tasks hes been to migrate our frontend from PHP + jQuery to Vue.
+One of my greatest tasks have been to migrate our frontend from PHP + jQuery to Vue.
 
 I'm proud of moving our release schedule from once every other month to 3-5 times per week, and we've done it with a change fail rate of 5%. Running blameless post mortems after each production incident has been key in achieving a low change fail rate. Our lead time from starting work on a task to having delivered it to production is usually below 48 hours.
 
