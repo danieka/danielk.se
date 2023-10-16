@@ -1,0 +1,49 @@
+
+[Ersättning]: Daniel har rätt till ersättning
+    + [Klarna har behandlat personuppgifter]
+        + Registerutdrag #(Bevis)
+    + [I strid med DSF]
+        + Kredituppgiftslagen 8§ förbjuder lagring längre än tre år
+        + Klarna gallrar inte uppgifter
+        + DI har konstaterat att lagring utan gallring inte är tillåten DI 1826-2013, 2014-06-09
+        - [Uppgifterna nödvändiga för att uppfylla avtalet]
+        - [Uppgifterna behövs för att fullfölja lagkrav]
+    + [Behandlingen har orsakat]
+        - [Ingen kausalitet]
+    + [Skada]
+
+[Uppgifterna behövs för att fullfölja lagkrav]
+    - Penningstvättlagen gäller bara transaktioner i original, alltså ej överlåtelse av fordringar
+    - Rättsutredningar gjorda av Klarna internt #(Bevis) #(Edition)
+    + Nödvändig finansiell rapportering
+    + Försvara sig mot framtida krav
+    + Tidsperioder i olika lagar löper först när kundrelationen avslutas
+        - Lagarna är indispositiva
+        
+[Uppgifterna nödvändiga för att uppfylla avtalet]
+    + Avtalet tillåter Klarnas behandling
+    + Uppgifterna används för kreditprövning
+    - Avtalet som är inlämnat är inte giltigt retroaktivt
+    - Avtalet är inte åberopat som bevismaterial
+    - Avtalet ger inte carte blanche utan måste prövas mot 5.1.e
+    - [Uppgifter ej nödvändiga för avtalet]
+
+[Ingen kausalitet]: Klarna har inte orsakat skadan
+    + Det är Klarna som har bestämt och genomfört behandlingen
+
+[Skada]: Daniel har inte lidit någon skada
+    + Partsförhör med Daniel #(Bevis)
+    - Skadan är inte ersättningsgill
+        - C300/21 tar sikte just på de känslor Daniel upplevt
+    - Rätten till en fredad sfär har inte kränkts
+        - Fredad sfär inget begrepp som förekommer inom DSF
+        - Privatekonomi tillhör absolut den fredade sfären
+    - Daniel har fortsatt använda Klarna
+        - Klarna är marknadsledande
+        - Daniel betalar för sjukvård via Klarna
+    
+
+[Uppgifter ej nödvändiga för avtalet]: Varken att fordringarna överlåtits eller avslagna kreditprövningar är nödvändiga för att uppfylla avtalet
+    + Register över behandling #(Bevis) #(Edition)
+    + Kod eller uppgifter från JIRA #(Bevis) #(Edition)
+    + Vittnesförhör #(Bevis)
