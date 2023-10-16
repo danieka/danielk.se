@@ -34,6 +34,10 @@ The best way to delegate is by fostering leaders.
 
 Collaboration, including pair and mob programming, works.
 
+## Current ambitions
+
+I see myself moving into a new leadership position. In that position I imagine I would help the company move further along the "DevOps journey". More specifically that would mean delivering more work, faster, and with lower rates of failure. I also see myself mentoring junior team members and helping the team as a whole develop. Lastly, I imagine that in my role I would often interface with customers, or sales, to deliver value.
+
 ## Skills
 
 | Skill                   | Proficiency |
@@ -86,14 +90,10 @@ As a founder I've been in charged of, and executing on, everything from running 
 
 ## Intro (1990 - 2016)
 
-My name is Daniel. I've been a programmer at heart since I first installed Linux when I was fourteen and I fondly remember spending the first month figuring out how to configure the network and get X up and running. I also picked up some Python and since then I've been obsessed with problem solving using computers. I've had quite a lot of different jobs: [tubaist](https://www.youtube.com/watch?v=OaoDoBiPXT0), teacher (high school and university) and IT support.
+I've been a programmer at heart since I first installed Linux when I was fourteen and I fondly remember spending the first month figuring out how to configure the network and get X up and running. I also picked up some Python and since then I've been obsessed with problem solving using computers. I've had quite a lot of different jobs: [tubaist](https://www.youtube.com/watch?v=OaoDoBiPXT0), teacher (high school and university) and IT support.
 
 Being a musician taught me unwavering dedication to performance. As a musician you have to perform every time you take to the stage, no excuses. You also internalise a mentality of constant improvement, every performance can and must be improved upon. Working as a teacher I got comfortable speaking in public and learned how to explain technical stuff in a way that most, if not all, people will understand.
 
 In IT support I worked at an internal call center for Stockholm's hospitals ("landsting" in Swedish) and got to see first hand how almost any bad experience can be turned to something positive by hearing, and actually listening, to the user. Even if I couldn't solve a case I could almost always end the call on a positive note. I prided myself on closing 90% of my cases without needing to escalate and many days managed to be number one in answered calls. Through all these gigs I continued hacking away on evenings and weekends. I dabbled in web development, genetic algorithms and stock trading, and robotics to name a few.
 
 Having done that I started studying for my Bachelor and Masters in Computer Science at the Royal Institute of Technology and stayed there for two years. I learned enough computer science to have a theoretical foundation for all the evening and weekend hacking I had been doing.
-
-## Current ambitions
-
-I'm happy at Flinker, but eventually I see myself moving into a new leadership position. In that position I imagine I would help the company move further along the "DevOps journey". I also see myself mentoring junior team members and helping the team as a whole develop. Lastly, I imagine that in my role I would often interface with customers, or sales, to deliver value.
