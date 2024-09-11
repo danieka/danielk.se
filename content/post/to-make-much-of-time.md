@@ -5,6 +5,7 @@ date: "2017-08-25"
 categories:
   - "Personal"
 summary: I dagens episod försöker Daniel fånga ögonblicket och prövar att flörta med en tjej. Det går sådär.
+draft: true
 ---
 
 # To make much of Time
