@@ -5,7 +5,8 @@ date: "2024-09-11"
 categories:
   - "Personal"
 tags: ["tro"]
-draft: true
+draft: false
+unlisted: true
 ---
 
 # Multiplikation
