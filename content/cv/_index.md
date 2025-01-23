@@ -1,12 +1,12 @@
 ---
 title: "Resume"
 description: "A little bit about myself"
-date: "2017-04-05"
+date: "2017-04-12"
 ---
 
 # Résumé
 
-_Updated 2022-10-14_
+_Updated 2025-01-14_
 
 ## TL;DR
 
@@ -16,13 +16,13 @@ To get in touch with me see my [contact page](/contact).
 
 ## Principles
 
-These are the principles that guides my work. Though, in fairness, I don't uphold them as often as I would like to.
+These are the principles that guides my work. Though, in fairness, I don't follow them as often as I would like to.
 
-I judge the quality of my work by how those I manage view me. Any success are theirs, failure is my responsibility. A leader should serve those whom he leads.
+It pays to be kind.
 
 Working smart beats working hard almost every time, 10x developers don't necessarily work more hours.
 
-To reap any fruit, you must first sow. In tech that means you need to invest in production capability if you want to reliably produce anything of value.
+To reap you must first sow. In tech that means you need to invest in production capability if you want to reliably produce anything of value.
 
 People fail, and must be allowed to fail. That's why quality assurance should be automated. A flaw in quality is a flaw in the process, not in the people.
 
@@ -30,13 +30,13 @@ Always reduce work in progress and batch size.
 
 [Release early, release often](/post/releaseearly/)
 
-The best way to delegate is by fostering leaders.
+The best way to delegate is by fostering leaders to do your job.
 
 Collaboration, including pair and mob programming, works.
 
 ## Current ambitions
 
-I see myself moving into a new leadership position. In that position I imagine I would help the company move further along the "DevOps journey". More specifically that would mean delivering more work, faster, and with lower rates of failure. I also see myself mentoring junior team members and helping the team as a whole develop. Lastly, I imagine that in my role I would often interface with customers, or sales, to deliver value.
+In the next months I will be available as a freelancer/consultant. I see myself providing most value in leadership positions. In such positions I would help the move the company further along the "DevOps journey". More specifically that would mean delivering more work, faster, and with lower rates of failure. I also see myself mentoring junior team members and helping the team as a whole develop their craft. Lastly, I imagine that in my role I would often interface with customers, or sales, to deliver value.
 
 ## Skills
 
@@ -46,12 +46,12 @@ I see myself moving into a new leadership position. In that position I imagine I
 | Vue                     | 5           |
 | DevOps practices        | 4           |
 | SQL (MySQL/PostrgreSQL) | 4           |
-| Elixir                  | 3           |
+| Elixir                  | 4           |
+| Java                    | 4           |
 | AngularJS/Angular 2+    | 3           |
 | Go                      | 3           |
 | Ionic                   | 3           |
 | AWS                     | 3           |
-| Java                    | 3           |
 | Kafka/KSQL              | 3           |
 | CubeJS                  | 3           |
 | Python                  | 3           |
@@ -62,17 +62,19 @@ I see myself moving into a new leadership position. In that position I imagine I
 
 The scale is 1-5 where 5 is "back of my hand" and 1 is "passable".
 
-I like to think of myself as an aspiring polymath which means I might know one or two things not on this list. For example I consider myself to be an advanced beginner in topics relating to marking, sales and business development. I've written some kind of program in at least Racket, Clojure, Elixir, C, C++, Python, Java, Scala, Typescript, Coffescript, Objective-C, PHP, Ruby, Go, Bash, Swift, Haskell, Prolog, Assembly, Elm and quite possible some other languages I've forgotten. I've done deploys using Terraform, Ansible and Puppet both on bare metal and on Docker via Jenkins, Github Actions and CircleCi.
+I like to think of myself as an aspiring polymath which means I might know one or two things not on this list. For example I consider myself to be an advanced beginner in topics relating to marketing, sales and business development. I've written some kind of code in at least Racket, Clojure, Elixir, C, C++, Python, Java, Scala, Typescript, Coffescript, Objective-C, PHP, Ruby, Go, Bash, Swift, Haskell, Prolog, Assembly, Elm and quite possible some other languages I've forgotten. I've done deploys using Terraform, Ansible and Puppet both on bare metal and on Docker via Jenkins, Github Actions and CircleCi.
 
-## Tech Lead (2020-)
+## Tech Lead (2020-2025)
 
-At Flinker I'm leading a frontend team that started out as three members, counting myself, that has grown to five members, and then contracted due to circumstances outside my control.
+At Flinker I'm leading a fullstack team that started out as three members, counting myself, that has grown to five members, and then contracted due to circumstances outside my control.
+
+What I'm most proud of is how my colleagues have grown since I joined and I believed I've mentored, taught and empowered our junior developers to be productive and bold.
 
 One of my greatest tasks have been to migrate our frontend from PHP + jQuery to Vue.
 
-I'm proud of moving our release schedule from once every other month to 3-5 times per week, and we've done it with a change fail rate below 5%. Running blameless post mortems after each production incident has been key in achieving a low change fail rate. Our lead time from starting work on a task to having delivered it to production is usually below 48 hours.
+We started out as a frontend team but during the last year we have, under my leadership, transitioned to become a fullstack team as a way to remove blockers in our development flow. Since then we have delivered new functionality, and improved old, while keeping an uptime of more than 99.99%.
 
-What I'm most proud of is how my colleagues have grown since I joined and I believed I've mentored, taught and empowered our junior developers to be productive and bold.
+I'm proud of moving our release schedule from once every other month to deploying 3-5 times per week, and we've done it with a change fail rate below 5%. Running blameless post mortems after each production incident has been key in achieving a low change fail rate. Our lead time from starting work on a task to having delivered it to production is usually below 48 hours.
 
 I've deployed and maintained our Kafka cluster, which in combination with CubeJS, gives our customers powerful tools for analysing their data.
 
