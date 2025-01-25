@@ -6,6 +6,7 @@ categories:
   - "Personal"
 tags: ["tro"]
 summary: Kan man bo på båt? Eller är det bara knäppt?
+draft: true
 ---
 
 # Kan man bo på båt?

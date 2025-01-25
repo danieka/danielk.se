@@ -5,6 +5,7 @@ date: "2017-10-10"
 categories:
   - "Personal"
 summary: Daniel ser samma tjej två gånger på samma dag. Istället för att fatta mod och snacka med henne fastnar han in ett filosofiskt resonemang som är både invecklat, förvirrat och utan poäng.
+draft: true
 ---
 
 # Tjejen med den blå tröjan:

@@ -5,6 +5,7 @@ date: "2020-12-19"
 categories:
   - "Personal"
 summary: En recension av Peter Halldorfs bok Alla himlensfåglar har flytt
+draft: true
 ---
 
 # Recension: Alla himlens fåglar

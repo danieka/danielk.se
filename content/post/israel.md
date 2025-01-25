@@ -6,6 +6,7 @@ draft: false
 categories:
   - "Personal"
 summary: Israel är en fascinerande plats på många nivåer och jag ska göra mitt bästa för att fånga detta.
+draft: true
 ---
 
 # Israel

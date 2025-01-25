@@ -5,6 +5,7 @@ date: "2017-10-10"
 categories:
   - "Personal"
 summary: En recension av en berättelse om materiell och social fattigdom, klassresa, narkotikaberoende, hederskultur och familjeband.
+draft: true
 ---
 
 # Bokrecension: Hillbilly Elegy

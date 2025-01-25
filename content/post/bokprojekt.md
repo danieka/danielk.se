@@ -5,6 +5,7 @@ date: "2018-02-14"
 categories:
   - "Personal"
 summary: Introduktion till det som i framtiden skulle kunna bli en bok.
+draft: true
 ---
 
 # Bokprojekt

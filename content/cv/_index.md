@@ -4,7 +4,7 @@ description: "A little bit about myself"
 date: "2017-04-12"
 ---
 
-# Résumé
+# About me
 
 _Updated 2025-01-14_
 

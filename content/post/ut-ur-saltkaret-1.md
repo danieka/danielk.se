@@ -5,6 +5,7 @@ date: "2020-12-24"
 categories:
   - "Personal"
 summary: Första delen av en längre recension av "Ut ur saltkaret".
+draft: true
 ---
 
 # Ut ur saltkaret

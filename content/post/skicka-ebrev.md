@@ -5,6 +5,7 @@ date: "2020-12-14"
 categories:
   - "Personal"
 summary: Ett nytt sidoprojekt för att skicka fysiska brev online (typ).
+draft: true
 ---
 
 # Skicka e-Brev

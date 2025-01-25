@@ -16,22 +16,13 @@ baseURL = "https://www.danielk.se/"
     email = "mail@danielk.se"
 
 [[menu.main]]
-    name = "home"
+    name = "blog"
     weight = 10
     url = "/"
 [[menu.main]]
-    identifier = "garden"
-    name = "Garden"
-    weight = 15
-    url = "/garden/"
-[[menu.main]]
-    name = "Professional"
+    name = "About me"
     weight = 20
-    url = "/categories/professional/"
-[[menu.main]]
-    name = "Personal"
-    weight = 20
-    url = "/categories/personal/"
+    url = "/cv/"
 [[menu.main]]
     name = "contact"
     weight = 30
