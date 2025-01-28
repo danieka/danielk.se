@@ -20,7 +20,7 @@ Reality, just like games, have limits to have long you can play and software pro
 
 The balancing act requires judgement calls that are made in the moment but I've assembled a few heuristics.
 
-- According to "Accelerate"[1] developer burnout is causally affected by low production capacity. Complicated release flows, lack of automated testing and other best practices tend to increase rates of burnout. Investing in production capacity is a way to care for the people on your team.
+- According to [Accelerate](https://www.amazon.se/-/en/Gene-Kim/dp/1942788339) developer burnout is causally affected by low production capacity. Complicated release flows, lack of automated testing and other best practices tend to increase rates of burnout. Investing in production capacity is a way to care for the people on your team.
 
 - Code, once merged, stays around a lot longer than you originally thought. Even if your team continually dedicates time to refactor and improve old code there are a lot of things that you will, realistically, never get around to fixing. So you should probably be diligent when writing code.
 
