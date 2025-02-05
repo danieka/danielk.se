@@ -12,7 +12,8 @@
   <section id="main" class="post">
     <div class="content">
       {{ .Content }}
-    </div>
+
+      {{ partial "hire_me.html" . }}
   </section>
   <footer>
     {{ partial "footer.html" . }}

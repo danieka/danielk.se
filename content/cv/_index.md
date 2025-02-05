@@ -4,10 +4,6 @@ description: "A little bit about myself"
 date: "2017-04-12"
 ---
 
-# About me
-
-_Updated 2025-01-14_
-
 ## TL;DR
 
 I'm a tech lead that enjoys delivering top-notch software quickly. Founding a start-up gave me some tough lessons on how not to run a business. I enjoy teaching; seeing people learn and grow is one of the best experiences in life. Programming is fun.
