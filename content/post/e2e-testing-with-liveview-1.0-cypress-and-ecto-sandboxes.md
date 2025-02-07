@@ -6,6 +6,7 @@ categories:
   - "Professional"
 tags: ["practices"]
 summary: How to set up E2E testing with LiveView 1.0, Cypress and Ecto sandboxes
+draft: true
 ---
 
 # E2E testing with LiveView 1.0, Cypress and Ecto sandboxes
