@@ -6,7 +6,7 @@ categories:
   - "Professional"
 tags: ["practices"]
 summary: How to set up E2E testing with LiveView 1.0, Cypress and Ecto sandboxes
-draft: true
+unlisted: true
 ---
 
 # E2E testing with LiveView 1.0, Cypress and Ecto sandboxes
@@ -45,7 +45,6 @@ I run Cypress tests locally using `npx cypress open` and use `mix phx.server` to
 `config/dev.exs`
 
 ```elixir
-
 config :app, App.Repo,
   ...
 + pool: Ecto.Adapters.SQL.Sandbox
