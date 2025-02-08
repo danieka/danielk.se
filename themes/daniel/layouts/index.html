@@ -13,7 +13,7 @@
     <div class="content">
       {{ .Content }}
       <div>
-        {{ range (where .Site.RegularPages.ByDate "Section" "post" ).Reverse }}
+        {{ range (where (where .Site.RegularPages ".Params.unlisted" "!=" "true").ByDate "Section" "post" ).Reverse }}
           <h1><a href="{{ .Permalink }}">{{ .Title }}</a></h1>
           <time datetime='{{ .Date.Format "Jan 2, 2006" }}'>{{ .Date.Format "Jan 2, 2006" }}</time>
           <p>{{ .Summary }}</p>
