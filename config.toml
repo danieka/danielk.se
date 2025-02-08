@@ -24,7 +24,7 @@ baseURL = "https://www.danielk.se/"
     weight = 20
     url = "/cv/"
 [[menu.main]]
-    name = "contact"
+    name = "Contact/Hire me"
     weight = 30
     url = "/contact/"
 
