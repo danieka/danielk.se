@@ -230,6 +230,12 @@ cite {
     }
 }
 
+@media print {
+    #main {
+        display: block;
+    }
+}
+
 footer {
     margin-left: 1em;
     font-size: 0.8rem;
@@ -406,4 +412,16 @@ code {
 
 .items-center {
     align-items: center;
+}
+
+@media print {
+    html { 
+        font-size: 10px;
+        margin: 0 6ch;
+    }
+
+    .print\:hidden {
+        display: none !important;
+    }
+
 }
