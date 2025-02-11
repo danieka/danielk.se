@@ -1,7 +1,7 @@
 ---
 title: "E2E testing with LiveView 1.0, Cypress and Ecto sandboxes"
 description: ""
-date: "2025-02-05"
+date: "2025-02-11"
 categories:
   - "Professional"
 tags: ["practices"]
