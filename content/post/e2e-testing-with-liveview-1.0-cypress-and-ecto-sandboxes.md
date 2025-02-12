@@ -144,4 +144,7 @@ One interesting use case for sandboxes and Cypress is running many e2e tests con
 And lastly, writing E2E tests for LiveView is truly a pleasure. One amazing aspect is how _fast_ the tests run. When compared with a Vue + Java app that I've worked on the LiveView tests are at least 10x faster.
 
 <div class="mt-16" />
+
+Thanks to Andreas for providing feedback on this article.
+
 1. Test-Driven Development by Kent Beck, p. 125, Isolated Test
